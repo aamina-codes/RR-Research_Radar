@@ -1,0 +1,151 @@
+cluster,rank,similarity_to_centroid,paper_id,title
+0,1,0.9447739154662143,abs-2002.09174v2,Double Explore-then-Commit: Asymptotic Optimality and Beyond
+0,2,0.9401707444144253,abs-1810.01187v4,Thompson Sampling Algorithms for Cascading Bandits
+0,3,0.9382204018155986,abs-2002.08405v5,Bandits with Mean Bounds
+0,4,0.9373132583598723,abs-2203.12577v3,Minimax Regret for Cascading Bandits
+0,5,0.9369516594998721,abs-2010.12247v2,An Asymptotically Optimal Primal-Dual Incremental Algorithm for Contextual Linear Bandits
+1,1,0.7848776319003063,abs-2310.13747v1,ALDi: Quantifying the Arabic Level of Dialectness of Text
+1,2,0.7637272266793462,abs-2308.05012v1,MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model
+1,3,0.7593356564438262,abs-2210.04710v2,Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter
+1,4,0.7543397630091213,abs-1909.04002v1,The Trumpiest Trump? Identifying a Subject's Most Characteristic Tweets
+1,5,0.7516297178390644,abs-2109.04957v1,Controlled Neural Sentence-Level Reframing of News Articles
+2,1,0.924911074256922,abs-1812.01754v4,Moment Matching for Multi-Source Domain Adaptation
+2,2,0.9225791048355125,abs-2011.02594v1,Universal Multi-Source Domain Adaptation
+2,3,0.9224332505986729,abs-2011.09230v2,FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation
+2,4,0.9207734238930692,abs-1911.12983v1,Correlation-aware Adversarial Domain Adaptation and Generalization
+2,5,0.9199122359192236,abs-2005.14007v3,Contradistinguisher: A Vapnik's Imperative to Unsupervised Domain Adaptation
+3,1,0.8886961731887769,abs-2204.04263v2,BioRED: A Rich Biomedical Relation Extraction Dataset
+3,2,0.8821160122503623,abs-2106.14373v1,A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition
+3,3,0.8771263939104579,abs-1608.06757v1,Robust Named Entity Recognition in Idiosyncratic Domains
+3,4,0.8734415845257707,abs-2011.01504v1,BioNerFlair: biomedical named entity recognition using flair embedding and sequence tagger
+3,5,0.872386844547858,abs-2012.10824v1,A hybrid deep-learning approach for complex biochemical named entity recognition
+4,1,0.8494639822857138,abs-1706.01215v3,DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework
+4,2,0.8446584171062703,abs-1508.05463v4,StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity
+4,3,0.8278154353865008,abs-2011.10115v2,Deep Neural Networks using a Single Neuron: Folded-in-Time Architecture using Feedback-Modulated Delay Loops
+4,4,0.8277561700401681,abs-1601.06071v1,Bitwise Neural Networks
+4,5,0.8208569350458012,abs-2405.03725v2,Deep Oscillatory Neural Network
+5,1,0.9239471096016237,abs-2108.02866v2,Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering
+5,2,0.9231483721138776,abs-2002.09919v2,Do Multi-Hop Question Answering Systems Know How to Answer the Single-Hop Sub-Questions?
+5,3,0.9173319006598997,abs-1808.09492v5,Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering
+5,4,0.9081564182414648,abs-2202.06538v1,QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation
+5,5,0.906112844431215,abs-1909.07597v2,Simple yet Effective Bridge Reasoning for Open-Domain Multi-Hop Question Answering
+6,1,0.8582420510929467,abs-2011.11961v4,MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition
+6,2,0.8364776533931058,abs-2202.09942v1,Multiscale Crowd Counting and Localization By Multitask Point Supervision
+6,3,0.8263353265272982,abs-2110.10546v1,Trash or Treasure? An Interactive Dual-Stream Strategy for Single Image Reflection Separation
+6,4,0.8176169690243038,abs-2104.11379v2,Eigenbackground Revisited: Can We Model the Background with Eigenvectors?
+6,5,0.8155462928096975,abs-2012.06722v2,Mask Guided Matting via Progressive Refinement Network
+7,1,0.9195134049310845,abs-2106.07947v1,Deriving Word Vectors from Contextualized Language Models using Topic-Aware Mention Selection
+7,2,0.9026738325051076,abs-1612.00394v1,Definition Modeling: Learning to define word embeddings in natural language
+7,3,0.898627062917352,abs-2104.03285v1,Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification
+7,4,0.8983430706348801,abs-1612.02703v2,Embedding Words and Senses Together via Joint Knowledge-Enhanced Training
+7,5,0.8962204732641247,abs-2004.13844v2,Decomposing Word Embedding with the Capsule Network
+8,1,0.8512294927221222,abs-2212.02564v1,INCLUSIFY: A benchmark and a model for gender-inclusive German
+8,2,0.8454681366628501,abs-2203.02092v1,Deep Lexical Hypothesis: Identifying personality structure in natural language
+8,3,0.8444915494699836,abs-2207.09643v1,Integrating Linguistic Theory and Neural Language Models
+8,4,0.8404296930330202,abs-2201.11990v3,"Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model"
+8,5,0.8397275525433395,abs-2210.07041v1,Spontaneous Emerging Preference in Two-tower Language Model
+9,1,0.9254555788893085,abs-2401.11929v4,Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting
+9,2,0.9174168343840814,abs-2107.01705v1,Randomized Neural Networks for Forecasting Time Series with Multiple Seasonality
+9,3,0.9159037833540455,abs-2008.12340v1,Forecasting with Multiple Seasonality
+9,4,0.9141895260864843,abs-2410.22981v1,DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting
+9,5,0.9093210086486156,abs-2109.09692v4,Modeling Regime Shifts in Multiple Time Series
+10,1,0.8100046106675074,abs-2308.02606v1,Improving Human-Object Interaction Detection via Virtual Image Learning
+10,2,0.7776703676284848,abs-1611.09969v2,High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
+10,3,0.7763838618510931,abs-1907.12488v1,Benefiting from Multitask Learning to Improve Single Image Super-Resolution
+10,4,0.7701205831736946,abs-1904.02520v1,Deep Multi-scale Discriminative Networks for Double JPEG Compression Forensics
+10,5,0.7696881948164213,abs-1811.04815v3,Automatic kidney segmentation in ultrasound images using subsequent boundary distance regression and pixelwise classification networks
+11,1,0.7906665856169341,abs-1706.06974v1,"The Theory is Predictive, but is it Complete? An Application to Human Perception of Randomness"
+11,2,0.7662985477372559,abs-2104.07245v3,Towards Handling Uncertainty-at-Source in AI -- A Review and Next Steps for Interval Regression
+11,3,0.7630784593354106,abs-1909.13343v2,"ISTHMUS: Secure, Scalable, Real-time and Robust Machine Learning Platform for Healthcare"
+11,4,0.7628902613948412,abs-2002.09945v1,On the Estimation of Complex Circuits Functional Failure Rate by Machine Learning Techniques
+11,5,0.7628859442923136,abs-1804.09997v1,PANDA: Facilitating Usable AI Development
+12,1,0.9544394700351704,abs-2011.04050v1,Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning
+12,2,0.9480353331153063,abs-2410.18862v1,FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning
+12,3,0.9463572404179781,abs-2107.09627v1,Precision-Weighted Federated Learning
+12,4,0.9437066429029274,abs-2211.03363v3,Over-The-Air Clustered Wireless Federated Learning
+12,5,0.9406632915987541,abs-2104.08020v1,FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning
+13,1,0.881491593934579,abs-1812.00155v1,Learning RoI Transformer for Detecting Oriented Objects in Aerial Images
+13,2,0.8812474895667769,abs-2104.11854v1,Oriented Bounding Boxes for Small and Freely Rotated Objects
+13,3,0.8760515936097559,abs-2109.10187v5,Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram
+13,4,0.8725184878258279,abs-1901.03796v1,Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes
+13,5,0.8709854647464608,abs-1706.03646v2,Point Linking Network for Object Detection
+14,1,0.8522267908895282,abs-2205.05398v3,Scalable Stochastic Parametric Verification with Stochastic Variational Smoothed Model Checking
+14,2,0.847141554884159,abs-2105.03109v2,Laplace Matching for fast Approximate Inference in Latent Gaussian Models
+14,3,0.8465599212240746,abs-2407.08843v3,Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models
+14,4,0.8414650787913428,abs-2110.10422v3,PriorVAE: Encoding spatial priors with VAEs for small-area estimation
+14,5,0.8379827222534065,abs-2106.00719v2,Stochastic Collapsed Variational Inference for Structured Gaussian Process Regression Network
+15,1,0.9275939928949122,abs-1906.04285v2,Continuous Time Analysis of Momentum Methods
+15,2,0.910801072554565,abs-2004.06977v1,On Learning Rates and Schrödinger Operators
+15,3,0.907249660261411,abs-2107.05074v1,"SGD: The Role of Implicit Regularization, Batch-size and Multiple-epochs"
+15,4,0.9062626695870877,abs-2006.09092v6,Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training
+15,5,0.9059118079846816,abs-2408.00573v2,Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks
+16,1,0.9387574033402764,abs-1610.05243v1,Pre-Translation for Neural Machine Translation
+16,2,0.9355694577991134,abs-1709.08898v2,Improving a Multi-Source Neural Machine Translation Model with Corpus Extension for Low-Resource Languages
+16,3,0.935399418080014,abs-1503.03535v2,On Using Monolingual Corpora in Neural Machine Translation
+16,4,0.9351505266099984,abs-1903.00149v1,Chinese-Japanese Unsupervised Neural Machine Translation Using Sub-character Level Information
+16,5,0.9332681184635347,abs-2412.16877v1,Reconsidering SMT Over NMT for Closely Related Languages: A Case Study of Persian-Hindi Pair
+17,1,0.8567364807043444,abs-2302.12883v1,3D Surface Reconstruction in the Wild by Deforming Shape Priors from Synthetic Data
+17,2,0.8383946417566812,abs-2004.00740v2,Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences
+17,3,0.8375118409568164,abs-2212.04492v3,Few-View Object Reconstruction with Unknown Categories and Camera Poses
+17,4,0.830464886342879,abs-1809.00553v1,Object Pose Estimation from Monocular Image using Multi-View Keypoint Correspondence
+17,5,0.8304249473558852,abs-2104.02527v4,Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
+18,1,0.8944385236800046,abs-2103.14376v1,Geometric Affinity Propagation for Clustering with Network Knowledge
+18,2,0.8931307451465474,abs-1604.04893v1,An Initial Seed Selection Algorithm for K-means Clustering of Georeferenced Data to Improve Replicability of Cluster Assignments for Mapping Application
+18,3,0.8917426013973435,abs-1909.04406v3,Subspace clustering without knowing the number of clusters: A parameter free approach
+18,4,0.8913846843951578,abs-1911.08871v1,CNAK : Cluster Number Assisted K-means
+18,5,0.8903908155531244,abs-1612.08714v2,Clustering with Confidence: Finding Clusters with Statistical Guarantees
+19,1,0.9070829452551032,abs-2111.02316v1,Improving Model Compatibility of Generative Adversarial Networks by Boundary Calibration
+19,2,0.9041870826323424,abs-1612.04021v1,Generative Adversarial Parallelization
+19,3,0.8922771033195616,abs-1712.04086v3,PacGAN: The power of two samples in generative adversarial networks
+19,4,0.8903932679036495,abs-2203.09639v1,Generating unrepresented proportions of geological facies using Generative Adversarial Networks
+19,5,0.8893563787625609,abs-2109.02117v1,VARGAN: Variance Enforcing Network Enhanced GAN
+20,1,0.8876091725256512,abs-1707.06169v1,Fish School Search Algorithm for Constrained Optimization
+20,2,0.8738615804233762,abs-2403.08807v1,Effective anytime algorithm for multiobjective combinatorial optimization problems
+20,3,0.8736461094061636,abs-1609.03993v1,A Generic Bet-and-run Strategy for Speeding Up Traveling Salesperson and Minimum Vertex Cover
+20,4,0.8692407896372862,abs-1504.04421v1,Feasibility Preserving Constraint-Handling Strategies for Real Parameter Evolutionary Optimization
+20,5,0.8671401684088829,abs-2405.13298v1,An Efficient Approach for Solving Expensive Constrained Multiobjective Optimization Problems
+21,1,0.9012625769601941,abs-1907.12392v5,A Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment
+21,2,0.8992710641349791,abs-2210.07573v1,Model-based Safe Deep Reinforcement Learning via a Constrained Proximal Policy Optimization Algorithm
+21,3,0.8939790256182508,abs-1711.06782v1,Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning
+21,4,0.8914437390522643,abs-2008.09450v1,Adversarial Imitation Learning via Random Search
+21,5,0.8897261195020929,abs-1803.06773v1,Composable Deep Reinforcement Learning for Robotic Manipulation
+22,1,0.9294016359840904,abs-2006.12655v4,Perceptual Adversarial Robustness: Defense Against Unseen Threat Models
+22,2,0.9258965852917306,abs-1810.03739v1,Efficient Two-Step Adversarial Defense for Deep Neural Networks
+22,3,0.9201000637061546,abs-2306.14262v1,A Spectral Perspective towards Understanding and Improving Adversarial Robustness
+22,4,0.9183659916869682,abs-1805.00310v2,On the Limitation of MagNet Defense against $L_1$-based Adversarial Examples
+22,5,0.9165028245972981,abs-1812.10049v2,PPD: Permutation Phase Defense Against Adversarial Examples in Deep Learning
+23,1,0.8693824379770609,abs-1803.01906v1,Abnormality Detection in Mammography using Deep Convolutional Neural Networks
+23,2,0.8602328733384095,abs-1709.09429v1,FoodNet: Recognizing Foods Using Ensemble of Deep Networks
+23,3,0.8570695229714785,abs-1707.08105v2,Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks
+23,4,0.8548970025422002,abs-1807.01418v2,Selective Deep Convolutional Neural Network for Low Cost Distorted Image Classification
+23,5,0.8408674754731514,abs-1708.04483v1,Learning with Rethinking: Recurrently Improving Convolutional Neural Networks through Feedback
+24,1,0.9231265820254853,abs-2403.00126v2,FAC$^2$E: Better Understanding Large Language Model Capabilities by Dissociating Language and Cognition
+24,2,0.9136694548913262,abs-2305.15334v1,Gorilla: Large Language Model Connected with Massive APIs
+24,3,0.9112408287145299,abs-2309.02654v3,Zero-Resource Hallucination Prevention for Large Language Models
+24,4,0.9093852511894734,abs-2309.04646v1,Efficient Finetuning Large Language Models For Vietnamese Chatbot
+24,5,0.9086338922100534,abs-2407.12823v1,WTU-EVAL: A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models
+25,1,0.7602641504233502,abs-1803.03166v1,Aggregation using input-output trade-off
+25,2,0.7561961016752179,abs-2006.01130v3,Theory and Algorithms for Shapelet-based Multiple-Instance Learning
+25,3,0.7495171317233229,abs-2311.00109v3,FairWASP: Fast and Optimal Fair Wasserstein Pre-processing
+25,4,0.7471866388440394,abs-2009.11360v1,EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data
+25,5,0.7462223746763479,abs-1907.06633v1,On improving learning capability of ELM and an application to brain-computer interface
+26,1,0.9033284815293997,abs-1911.07979v3,ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+26,2,0.8966217115746704,abs-2104.07886v2,Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks
+26,3,0.8934911102259628,abs-2302.13406v1,GNNDelete: A General Strategy for Unlearning in Graph Neural Networks
+26,4,0.8895429324598274,abs-2009.03717v3,Hierarchical Message-Passing Graph Neural Networks
+26,5,0.8880044666377016,abs-2105.03178v5,Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks
+27,1,0.8988081130970162,abs-1908.07687v1,MoEL: Mixture of Empathetic Listeners
+27,2,0.8983555001463699,abs-2212.10557v2,DialGuide: Aligning Dialogue Model Behavior with Developer Guidelines
+27,3,0.8966939515918964,abs-2305.13710v1,Using Textual Interface to Align External Knowledge for End-to-End Task-Oriented Dialogue Systems
+27,4,0.8961001407695847,abs-2302.04424v1,A Transformer-based Response Evaluator for Open-Domain Spoken Conversation
+27,5,0.8948121026791034,abs-2010.12757v2,Adding Chit-Chat to Enhance Task-Oriented Dialogues
+28,1,0.8563422165981105,abs-1808.07507v1,Video Jigsaw: Unsupervised Learning of Spatiotemporal Context for Video Action Recognition
+28,2,0.8532177241411307,abs-1906.06822v1,Spatio-Temporal Fusion Networks for Action Recognition
+28,3,0.8520316029676984,abs-1611.09053v1,Bidirectional Multirate Reconstruction for Temporal Modeling in Videos
+28,4,0.8450840064955958,abs-1804.10021v1,Deep Keyframe Detection in Human Action Videos
+28,5,0.8386193495395913,abs-2010.11838v1,Blind Video Temporal Consistency via Deep Video Prior
+29,1,0.8953104258207076,abs-2201.12501v3,Does Transliteration Help Multilingual Language Modeling?
+29,2,0.8916268596109617,abs-2205.09634v2,Phylogeny-Inspired Adaptation of Multilingual Models to New Languages
+29,3,0.8898986443513512,abs-2203.09904v1,Do Multilingual Language Models Capture Differing Moral Norms?
+29,4,0.8887114389345061,abs-2209.06422v1,Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models
+29,5,0.8883071744655519,abs-2211.05015v1,Detecting Languages Unintelligible to Multilingual Models through Local Structure Probes

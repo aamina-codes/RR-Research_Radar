@@ -1,0 +1,751 @@
+cluster,topic_label,rank,similarity_to_centroid,paper_id,title
+0,Multi-Armed Bandits,1,0.9447739154662143,abs-2002.09174v2,Double Explore-then-Commit: Asymptotic Optimality and Beyond
+0,Multi-Armed Bandits,2,0.9401707444144253,abs-1810.01187v4,Thompson Sampling Algorithms for Cascading Bandits
+0,Multi-Armed Bandits,3,0.9382204018155986,abs-2002.08405v5,Bandits with Mean Bounds
+0,Multi-Armed Bandits,4,0.9373132583598723,abs-2203.12577v3,Minimax Regret for Cascading Bandits
+0,Multi-Armed Bandits,5,0.9369516594998721,abs-2010.12247v2,An Asymptotically Optimal Primal-Dual Incremental Algorithm for Contextual Linear Bandits
+0,Multi-Armed Bandits,6,0.936767267226047,abs-2006.08754v2,Crush Optimism with Pessimism: Structured Bandits Beyond Asymptotic Optimality
+0,Multi-Armed Bandits,7,0.9364847473467648,abs-2006.14785v2,On Regret with Multiple Best Arms
+0,Multi-Armed Bandits,8,0.9364229374359807,abs-2002.05152v4,A General Theory of the Stochastic Linear Bandit and Its Applications
+0,Multi-Armed Bandits,9,0.9363973398278882,abs-1611.10283v3,Bandit algorithms to emulate human decision making using probabilistic distortions
+0,Multi-Armed Bandits,10,0.9346507485009218,abs-1803.04623v5,Thompson Sampling for Combinatorial Semi-Bandits
+0,Multi-Armed Bandits,11,0.9344872502710768,abs-2106.02126v3,A Closer Look at the Worst-case Behavior of Multi-armed Bandit Algorithms
+0,Multi-Armed Bandits,12,0.9327296026581575,abs-2103.13929v1,Multinomial Logit Contextual Bandits: Provable Optimality and Practicality
+0,Multi-Armed Bandits,13,0.9321141991068775,abs-2002.08583v2,Regret Minimization in Stochastic Contextual Dueling Bandits
+0,Multi-Armed Bandits,14,0.9319326574966056,abs-1509.07927v1,Algorithms for Linear Bandits on Polyhedral Sets
+0,Multi-Armed Bandits,15,0.9300470498881586,abs-2102.05164v2,Nonstochastic Bandits with Infinitely Many Experts
+0,Multi-Armed Bandits,16,0.9296866223340806,abs-2411.14446v2,Rising Rested Bandits: Lower Bounds and Efficient Algorithms
+0,Multi-Armed Bandits,17,0.9294569980615641,abs-1605.01677v2,"Copeland Dueling Bandit Problem: Regret Lower Bound, Optimal Algorithm, and Computationally Efficient Algorithm"
+0,Multi-Armed Bandits,18,0.9290172482891075,abs-2011.07687v1,DART: aDaptive Accept RejecT for non-linear top-K subset identification
+0,Multi-Armed Bandits,19,0.9289606520007341,abs-1505.04627v1,Simple regret for infinitely many armed bandits
+0,Multi-Armed Bandits,20,0.9288061051943661,abs-2101.07957v2,Near-Optimal Regret Bounds for Contextual Combinatorial Semi-Bandits with Linear Payoff Functions
+0,Multi-Armed Bandits,21,0.9280875750560063,abs-2202.06694v1,Versatile Dueling Bandits: Best-of-both-World Analyses for Online Learning from Preferences
+0,Multi-Armed Bandits,22,0.9280040732198238,abs-2310.02975v2,"$(ε, u)$-Adaptive Regret Minimization in Heavy-Tailed Bandits"
+0,Multi-Armed Bandits,23,0.9269462099307191,abs-2110.09722v6,Lipschitz Bandits with Batched Feedback
+0,Multi-Armed Bandits,24,0.926625148635075,abs-2209.12108v1,An Asymptotically Optimal Batched Algorithm for the Dueling Bandit Problem
+0,Multi-Armed Bandits,25,0.926589243128321,abs-2202.00935v1,Non-Stationary Dueling Bandits
+1,Text and Social Media Analysis,1,0.7848776319003063,abs-2310.13747v1,ALDi: Quantifying the Arabic Level of Dialectness of Text
+1,Text and Social Media Analysis,2,0.7637272266793462,abs-2308.05012v1,MetRoBERTa: Leveraging Traditional Customer Relationship Management Data to Develop a Transit-Topic-Aware Language Model
+1,Text and Social Media Analysis,3,0.7593356564438262,abs-2210.04710v2,Empowering the Fact-checkers! Automatic Identification of Claim Spans on Twitter
+1,Text and Social Media Analysis,4,0.7543397630091213,abs-1909.04002v1,The Trumpiest Trump? Identifying a Subject's Most Characteristic Tweets
+1,Text and Social Media Analysis,5,0.7516297178390644,abs-2109.04957v1,Controlled Neural Sentence-Level Reframing of News Articles
+1,Text and Social Media Analysis,6,0.747160016689187,abs-1808.02290v1,How did the discussion go: Discourse act classification in social media conversations
+1,Text and Social Media Analysis,7,0.7434258301192547,abs-1909.13838v2,Automatic Fact-guided Sentence Modification
+1,Text and Social Media Analysis,8,0.7431296723311216,abs-2405.07320v1,L(u)PIN: LLM-based Political Ideology Nowcasting
+1,Text and Social Media Analysis,9,0.7411520523222834,abs-2210.13449v1,Controlled Text Reduction
+1,Text and Social Media Analysis,10,0.7367630719324683,abs-1905.00572v2,Argument Identification in Public Comments from eRulemaking
+1,Text and Social Media Analysis,11,0.734790350847322,abs-2412.18655v1,Simple is not Enough: Document-level Text Simplification using Readability and Coherence
+1,Text and Social Media Analysis,12,0.7317515569589408,abs-2210.15067v2,arXivEdits: Understanding the Human Revision Process in Scientific Writing
+1,Text and Social Media Analysis,13,0.7314256157277833,abs-2010.10573v1,AutoMeTS: The Autocomplete for Medical Text Simplification
+1,Text and Social Media Analysis,14,0.7288645559433582,abs-2301.08995v1,REDAffectiveLM: Leveraging Affect Enriched Embedding and Transformer-based Neural Language Model for Readers' Emotion Detection
+1,Text and Social Media Analysis,15,0.728818238724951,abs-1806.00910v1,An unsupervised and customizable misspelling generator for mining noisy health-related text sources
+1,Text and Social Media Analysis,16,0.728136764299861,abs-2004.12765v7,ColBERT: Using BERT Sentence Embedding in Parallel Neural Networks for Computational Humor
+1,Text and Social Media Analysis,17,0.7276014819070306,abs-2309.14974v3,Detecting Sexual Content at the Sentence Level in First Millennium Latin Texts
+1,Text and Social Media Analysis,18,0.7269536931650112,abs-2106.01064v1,Generating Informative Conclusions for Argumentative Texts
+1,Text and Social Media Analysis,19,0.7263782099951176,abs-1808.07191v1,Identifying High-Quality Chinese News Comments Based on Multi-Target Text Matching Model
+1,Text and Social Media Analysis,20,0.7262740658216501,abs-2107.12920v3,Emotion Stimulus Detection in German News Headlines
+1,Text and Social Media Analysis,21,0.7252718767857957,abs-2210.05715v1,Relational Embeddings for Language Independent Stance Detection
+1,Text and Social Media Analysis,22,0.7248931939298289,abs-2309.09300v1,AutoAM: An End-To-End Neural Model for Automatic and Universal Argument Mining
+1,Text and Social Media Analysis,23,0.7245531504588231,abs-2012.00483v2,ClimaText: A Dataset for Climate Change Topic Detection
+1,Text and Social Media Analysis,24,0.7233936638486927,abs-1803.08983v1,Automated Evaluation of Out-of-Context Errors
+1,Text and Social Media Analysis,25,0.723357412570002,abs-2212.13860v1,Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain
+2,Domain Adaptation,1,0.924911074256922,abs-1812.01754v4,Moment Matching for Multi-Source Domain Adaptation
+2,Domain Adaptation,2,0.9225791048355125,abs-2011.02594v1,Universal Multi-Source Domain Adaptation
+2,Domain Adaptation,3,0.9224332505986729,abs-2011.09230v2,FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation
+2,Domain Adaptation,4,0.9207734238930692,abs-1911.12983v1,Correlation-aware Adversarial Domain Adaptation and Generalization
+2,Domain Adaptation,5,0.9199122359192236,abs-2005.14007v3,Contradistinguisher: A Vapnik's Imperative to Unsupervised Domain Adaptation
+2,Domain Adaptation,6,0.9188967794330829,abs-2405.17493v1,Overcoming Negative Transfer by Online Selection: Distant Domain Adaptation for Fault Diagnosis
+2,Domain Adaptation,7,0.9183763628197956,abs-2104.04665v1,On Universal Black-Box Domain Adaptation
+2,Domain Adaptation,8,0.9182545070270586,abs-2208.02947v2,Joint Attention-Driven Domain Fusion and Noise-Tolerant Learning for Multi-Source Domain Adaptation
+2,Domain Adaptation,9,0.9176891844467843,abs-1811.05443v1,Co-regularized Alignment for Unsupervised Domain Adaptation
+2,Domain Adaptation,10,0.9174334319886617,abs-1603.06432v2,Beyond Sharing Weights for Deep Domain Adaptation
+2,Domain Adaptation,11,0.9168305376510308,abs-2203.07375v1,From Big to Small: Adaptive Learning to Partial-Set Domains
+2,Domain Adaptation,12,0.916671627572178,abs-2202.10000v1,Domain-Augmented Domain Adaptation
+2,Domain Adaptation,13,0.9165310076290882,abs-2002.08546v6,Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation
+2,Domain Adaptation,14,0.9147376721852951,abs-1909.06718v2,LRS-DAG: Low Resource Supervised Domain Adaptation with Generalization Across Domains
+2,Domain Adaptation,15,0.9143889798297178,abs-2202.10725v1,Multi-Source Unsupervised Domain Adaptation via Pseudo Target Domain
+2,Domain Adaptation,16,0.9116448289912712,abs-2006.07776v2,Domain Adaptation and Image Classification via Deep Conditional Adaptation Network
+2,Domain Adaptation,17,0.910663984864915,abs-1903.03215v2,Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss
+2,Domain Adaptation,18,0.9095428868112129,abs-1909.11825v2,Unsupervised Domain Adaptation through Self-Supervision
+2,Domain Adaptation,19,0.9088877988796479,abs-2212.03795v1,Reconciling a Centroid-Hypothesis Conflict in Source-Free Domain Adaptation
+2,Domain Adaptation,20,0.9087021876916768,abs-1802.08735v2,A DIRT-T Approach to Unsupervised Domain Adaptation
+2,Domain Adaptation,21,0.9079375394912573,abs-2209.04594v1,Unsupervised Domain Adaptation for Extra Features in the Target Domain Using Optimal Transport
+2,Domain Adaptation,22,0.9072196315802109,abs-2309.12742v2,Make the U in UDA Matter: Invariant Consistency Learning for Unsupervised Domain Adaptation
+2,Domain Adaptation,23,0.9070512919876799,abs-2103.13814v1,Dynamic Weighted Learning for Unsupervised Domain Adaptation
+2,Domain Adaptation,24,0.9062689253819743,abs-1901.11448v3,Feature-Critic Networks for Heterogeneous Domain Generalization
+2,Domain Adaptation,25,0.9060812165315333,abs-2301.03826v1,CDA: Contrastive-adversarial Domain Adaptation
+3,Named Entity and Relation Extraction,1,0.8886961731887769,abs-2204.04263v2,BioRED: A Rich Biomedical Relation Extraction Dataset
+3,Named Entity and Relation Extraction,2,0.8821160122503623,abs-2106.14373v1,A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition
+3,Named Entity and Relation Extraction,3,0.8771263939104579,abs-1608.06757v1,Robust Named Entity Recognition in Idiosyncratic Domains
+3,Named Entity and Relation Extraction,4,0.8734415845257707,abs-2011.01504v1,BioNerFlair: biomedical named entity recognition using flair embedding and sequence tagger
+3,Named Entity and Relation Extraction,5,0.872386844547858,abs-2012.10824v1,A hybrid deep-learning approach for complex biochemical named entity recognition
+3,Named Entity and Relation Extraction,6,0.8718880624730109,abs-2210.09049v2,SpanProto: A Two-stage Span-based Prototypical Network for Few-shot Named Entity Recognition
+3,Named Entity and Relation Extraction,7,0.8717766354956145,abs-1602.04427v2,Exploiting Lists of Names for Named Entity Identification of Financial Institutions from Unstructured Documents
+3,Named Entity and Relation Extraction,8,0.8716196444278267,abs-2210.06164v1,Focusing on Context is NICE: Improving Overshadowed Entity Disambiguation
+3,Named Entity and Relation Extraction,9,0.8695491866599101,abs-1705.01042v1,Entity Linking with people entity on Wikipedia
+3,Named Entity and Relation Extraction,10,0.8671934710171865,abs-2310.11016v1,Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction
+3,Named Entity and Relation Extraction,11,0.8664492191543678,abs-2304.14770v2,RexUIE: A Recursive Method with Explicit Schema Instructor for Universal Information Extraction
+3,Named Entity and Relation Extraction,12,0.8650974346384984,abs-1911.09787v2,LATTE: Latent Type Modeling for Biomedical Entity Linking
+3,Named Entity and Relation Extraction,13,0.8643629807025297,abs-2403.15322v1,CO-Fun: A German Dataset on Company Outsourcing in Fund Prospectuses for Named Entity Recognition and Relation Extraction
+3,Named Entity and Relation Extraction,14,0.8641982338973657,abs-2104.10344v1,Improving Biomedical Pretrained Language Models with Knowledge
+3,Named Entity and Relation Extraction,15,0.8620538942205633,abs-2203.17079v1,Scientific and Technological Text Knowledge Extraction Method of based on Word Mixing and GRU
+3,Named Entity and Relation Extraction,16,0.8604096632908134,abs-1808.07699v2,End-to-End Neural Entity Linking
+3,Named Entity and Relation Extraction,17,0.8594757643565075,abs-2205.10498v2,Named Entity Linking with Entity Representation by Multiple Embeddings
+3,Named Entity and Relation Extraction,18,0.8593807931361624,abs-1909.11535v2,Learning A Unified Named Entity Tagger From Multiple Partially Annotated Corpora For Efficient Adaptation
+3,Named Entity and Relation Extraction,19,0.8589708702037184,abs-2112.10070v1,Unified Named Entity Recognition as Word-Word Relation Classification
+3,Named Entity and Relation Extraction,20,0.8585906970241134,abs-2002.04936v1,Joint Embedding in Named Entity Linking on Sentence Level
+3,Named Entity and Relation Extraction,21,0.8571111982969759,abs-1910.03385v1,Linguistically Informed Relation Extraction and Neural Architectures for Nested Named Entity Recognition in BioNLP-OST 2019
+3,Named Entity and Relation Extraction,22,0.8553957806610873,abs-2011.05188v2,Biomedical Information Extraction for Disease Gene Prioritization
+3,Named Entity and Relation Extraction,23,0.8540597963097106,abs-2405.11941v1,Biomedical Entity Linking for Dutch: Fine-tuning a Self-alignment BERT Model on an Automatically Generated Wikipedia Corpus
+3,Named Entity and Relation Extraction,24,0.8535899690981783,abs-2108.06955v2,"MobIE: A German Dataset for Named Entity Recognition, Entity Linking and Relation Extraction in the Mobility Domain"
+3,Named Entity and Relation Extraction,25,0.8520923842467573,abs-2009.12626v2,DWIE: an entity-centric dataset for multi-task document-level information extraction
+4,Neural Networks and Deep Learning,1,0.8494639822857138,abs-1706.01215v3,DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework
+4,Neural Networks and Deep Learning,2,0.8446584171062703,abs-1508.05463v4,StochasticNet: Forming Deep Neural Networks via Stochastic Connectivity
+4,Neural Networks and Deep Learning,3,0.8278154353865008,abs-2011.10115v2,Deep Neural Networks using a Single Neuron: Folded-in-Time Architecture using Feedback-Modulated Delay Loops
+4,Neural Networks and Deep Learning,4,0.8277561700401681,abs-1601.06071v1,Bitwise Neural Networks
+4,Neural Networks and Deep Learning,5,0.8208569350458012,abs-2405.03725v2,Deep Oscillatory Neural Network
+4,Neural Networks and Deep Learning,6,0.8204891105727626,abs-1812.00481v1,Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization
+4,Neural Networks and Deep Learning,7,0.8141551577756094,abs-1811.08039v3,Fenchel Lifted Networks: A Lagrange Relaxation of Neural Network Training
+4,Neural Networks and Deep Learning,8,0.8140782699448276,abs-2209.06932v3,Optimizing Connectivity through Network Gradients for Restricted Boltzmann Machines
+4,Neural Networks and Deep Learning,9,0.8122141052371474,abs-1902.01917v1,"Same, Same But Different - Recovering Neural Network Quantization Error Through Weight Factorization"
+4,Neural Networks and Deep Learning,10,0.8111242505038335,abs-1808.09907v1,Dropout with Tabu Strategy for Regularizing Deep Neural Networks
+4,Neural Networks and Deep Learning,11,0.8101865062301602,abs-2305.06344v2,Orthogonal Transforms in Neural Networks Amount to Effective Regularization
+4,Neural Networks and Deep Learning,12,0.8100354668719019,abs-2012.07772v3,A hybrid quantum-classical neural network with deep residual learning
+4,Neural Networks and Deep Learning,13,0.8080313350637731,abs-2310.00965v4,Effective Learning with Node Perturbation in Multi-Layer Neural Networks
+4,Neural Networks and Deep Learning,14,0.8076062279002834,abs-1901.02878v1,A Constructive Approach for One-Shot Training of Neural Networks Using Hypercube-Based Topological Coverings
+4,Neural Networks and Deep Learning,15,0.8074466855459015,abs-1704.04959v1,Introspection: Accelerating Neural Network Training By Learning Weight Evolution
+4,Neural Networks and Deep Learning,16,0.8072724830585449,abs-2310.00337v1,Quantization of Deep Neural Networks to facilitate self-correction of weights on Phase Change Memory-based analog hardware
+4,Neural Networks and Deep Learning,17,0.8068075284670833,abs-2207.12932v1,Hyperdimensional Computing vs. Neural Networks: Comparing Architecture and Learning Process
+4,Neural Networks and Deep Learning,18,0.8066658732262979,abs-2002.12287v2,Deep Randomized Neural Networks
+4,Neural Networks and Deep Learning,19,0.8044789924660698,abs-1812.09764v3,Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology
+4,Neural Networks and Deep Learning,20,0.8043820489685709,abs-2501.18018v1,Perforated Backpropagation: A Neuroscience Inspired Extension to Artificial Neural Networks
+4,Neural Networks and Deep Learning,21,0.8043701506244052,abs-1805.01078v1,Exploration of Numerical Precision in Deep Neural Networks
+4,Neural Networks and Deep Learning,22,0.8028050270063325,abs-2006.01578v3,Deep Learning in Target Space
+4,Neural Networks and Deep Learning,23,0.8017203284749403,abs-1604.06154v1,Deep Adaptive Network: An Efficient Deep Neural Network with Sparse Binary Connections
+4,Neural Networks and Deep Learning,24,0.8016809878344369,abs-1711.06935v3,Interleaver Design for Deep Neural Networks
+4,Neural Networks and Deep Learning,25,0.8016198060417227,abs-2006.01681v4,Neural Power Units
+5,Question Answering,1,0.9239471096016237,abs-2108.02866v2,Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering
+5,Question Answering,2,0.9231483721138776,abs-2002.09919v2,Do Multi-Hop Question Answering Systems Know How to Answer the Single-Hop Sub-Questions?
+5,Question Answering,3,0.9173319006598997,abs-1808.09492v5,Learning to Attend On Essential Terms: An Enhanced Retriever-Reader Model for Open-domain Question Answering
+5,Question Answering,4,0.9081564182414648,abs-2202.06538v1,QA4QG: Using Question Answering to Constrain Multi-Hop Question Generation
+5,Question Answering,5,0.906112844431215,abs-1909.07597v2,Simple yet Effective Bridge Reasoning for Open-Domain Multi-Hop Question Answering
+5,Question Answering,6,0.9030520483434614,abs-1910.07000v1,Answering Complex Open-domain Questions Through Iterative Query Generation
+5,Question Answering,7,0.9011663547372637,abs-2305.12820v2,MultiTabQA: Generating Tabular Answers for Multi-Table Question Answering
+5,Question Answering,8,0.9005971314005148,abs-2204.00266v1,Multifaceted Improvements for Conversational Open-Domain Question Answering
+5,Question Answering,9,0.8985452279472929,abs-2109.11085v1,Towards Universal Dense Retrieval for Open-domain Question Answering
+5,Question Answering,10,0.8977306375967677,abs-2104.00369v1,FeTaQA: Free-form Table Question Answering
+5,Question Answering,11,0.8963355316546624,abs-2101.11429v1,TSQA: Tabular Scenario Based Question Answering
+5,Question Answering,12,0.8961734146226661,abs-2210.10176v2,Entity-Focused Dense Passage Retrieval for Outside-Knowledge Visual Question Answering
+5,Question Answering,13,0.8953391271469378,abs-2210.12338v1,Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge
+5,Question Answering,14,0.8935380864528201,abs-2002.08325v2,VQA-LOL: Visual Question Answering under the Lens of Logic
+5,Question Answering,15,0.8925327157642204,abs-2309.05103v1,AGent: A Novel Pipeline for Automatically Creating Unanswerable Questions
+5,Question Answering,16,0.8920748910271423,abs-1910.11473v2,QASC: A Dataset for Question Answering via Sentence Composition
+5,Question Answering,17,0.8920617067119443,abs-2311.14087v1,Question Answering in Natural Language: the Special Case of Temporal Expressions
+5,Question Answering,18,0.8916993428472348,abs-1909.09253v1,What's Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
+5,Question Answering,19,0.8912047571756594,abs-2211.09401v1,Open-Domain Conversational Question Answering with Historical Answers
+5,Question Answering,20,0.8882150390843886,abs-2210.08763v1,ReasonChainQA: Text-based Complex Question Answering with Explainable Evidence Chains
+5,Question Answering,21,0.8872648840116009,abs-2105.03011v1,A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers
+5,Question Answering,22,0.887150178319952,abs-1903.07113v2,Question Answering via Web Extracted Tables and Pipelined Models
+5,Question Answering,23,0.8865117959281443,abs-2304.11664v1,IslamicPCQA: A Dataset for Persian Multi-hop Complex Question Answering in Islamic Text Resources
+5,Question Answering,24,0.8853363469347701,abs-1911.00337v3,Ensembling Strategies for Answering Natural Questions
+5,Question Answering,25,0.8850626923532444,abs-1711.06238v2,A Generative Approach to Question Answering
+6,Computer Vision and Open-Source Methods,1,0.8582420510929467,abs-2011.11961v4,MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition
+6,Computer Vision and Open-Source Methods,2,0.8364776533931058,abs-2202.09942v1,Multiscale Crowd Counting and Localization By Multitask Point Supervision
+6,Computer Vision and Open-Source Methods,3,0.8263353265272982,abs-2110.10546v1,Trash or Treasure? An Interactive Dual-Stream Strategy for Single Image Reflection Separation
+6,Computer Vision and Open-Source Methods,4,0.8176169690243038,abs-2104.11379v2,Eigenbackground Revisited: Can We Model the Background with Eigenvectors?
+6,Computer Vision and Open-Source Methods,5,0.8155462928096975,abs-2012.06722v2,Mask Guided Matting via Progressive Refinement Network
+6,Computer Vision and Open-Source Methods,6,0.8026937381150532,abs-2304.02769v1,Low-Shot Learning for Fictional Claim Verification
+6,Computer Vision and Open-Source Methods,7,0.799757732892683,abs-2212.13517v1,Infusing Definiteness into Randomness: Rethinking Composition Styles for Deep Image Matting
+6,Computer Vision and Open-Source Methods,8,0.7965663277269441,abs-2112.03710v1,CapsProm: A Capsule Network For Promoter Prediction
+6,Computer Vision and Open-Source Methods,9,0.7934036216465814,abs-2207.08267v2,Gigapixel Whole-Slide Images Classification using Locally Supervised Learning
+6,Computer Vision and Open-Source Methods,10,0.7933510900159697,abs-2306.13380v1,First Place Solution to the CVPR'2023 AQTC Challenge: A Function-Interaction Centric Approach with Spatiotemporal Visual-Language Alignment
+6,Computer Vision and Open-Source Methods,11,0.7915197157646601,abs-2303.06862v2,"OTOV2: Automatic, Generic, User-Friendly"
+6,Computer Vision and Open-Source Methods,12,0.7915074071932218,abs-2208.06561v3,Drone Referring Localization: An Efficient Heterogeneous Spatial Feature Interaction Method For UAV Self-Localization
+6,Computer Vision and Open-Source Methods,13,0.7909330583019709,abs-2010.09089v1,Training Stronger Baselines for Learning to Optimize
+6,Computer Vision and Open-Source Methods,14,0.7907096699950683,abs-2303.15266v3,Multi-Granularity Archaeological Dating of Chinese Bronze Dings Based on a Knowledge-Guided Relation Graph
+6,Computer Vision and Open-Source Methods,15,0.7892274306225019,abs-2302.06881v2,simpleKT: A Simple But Tough-to-Beat Baseline for Knowledge Tracing
+6,Computer Vision and Open-Source Methods,16,0.7881626776471159,abs-2404.05892v4,Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence
+6,Computer Vision and Open-Source Methods,17,0.7847260991953731,abs-2207.01334v2,Egocentric Video-Language Pretraining @ EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge 2022
+6,Computer Vision and Open-Source Methods,18,0.7844904367450125,abs-2011.01302v2,IOS: Inter-Operator Scheduler for CNN Acceleration
+6,Computer Vision and Open-Source Methods,19,0.7843845839317815,abs-2105.14184v1,E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Markers
+6,Computer Vision and Open-Source Methods,20,0.7837273770300723,abs-2410.03210v1,Tadashi: Enabling AI-Based Automated Code Generation With Guaranteed Correctness
+6,Computer Vision and Open-Source Methods,21,0.7837185853933402,abs-2406.01512v1,MAD: Multi-Alignment MEG-to-Text Decoding
+6,Computer Vision and Open-Source Methods,22,0.7817204167912569,abs-2208.00609v1,Accurate Polygonal Mapping of Buildings in Satellite Imagery
+6,Computer Vision and Open-Source Methods,23,0.7808709878662207,abs-2204.10137v1,"Toward Fast, Flexible, and Robust Low-Light Image Enhancement"
+6,Computer Vision and Open-Source Methods,24,0.7805123307161423,abs-2007.07984v2,Leveraging Category Information for Single-Frame Visual Sound Source Separation
+6,Computer Vision and Open-Source Methods,25,0.7801640083670931,abs-2104.10972v4,ImageNet-21K Pretraining for the Masses
+7,Word Embeddings and Semantic Representations,1,0.9195134049310845,abs-2106.07947v1,Deriving Word Vectors from Contextualized Language Models using Topic-Aware Mention Selection
+7,Word Embeddings and Semantic Representations,2,0.9026738325051076,abs-1612.00394v1,Definition Modeling: Learning to define word embeddings in natural language
+7,Word Embeddings and Semantic Representations,3,0.898627062917352,abs-2104.03285v1,Combining Pre-trained Word Embeddings and Linguistic Features for Sequential Metaphor Identification
+7,Word Embeddings and Semantic Representations,4,0.8983430706348801,abs-1612.02703v2,Embedding Words and Senses Together via Joint Knowledge-Enhanced Training
+7,Word Embeddings and Semantic Representations,5,0.8962204732641247,abs-2004.13844v2,Decomposing Word Embedding with the Capsule Network
+7,Word Embeddings and Semantic Representations,6,0.8953022141800957,abs-1508.02354v2,Syntax-Aware Multi-Sense Word Embeddings for Deep Compositional Models of Meaning
+7,Word Embeddings and Semantic Representations,7,0.8937381834958794,abs-2012.07580v2,Modelling General Properties of Nouns by Selectively Averaging Contextualised Embeddings
+7,Word Embeddings and Semantic Representations,8,0.8935560855215815,abs-1906.10007v1,Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation
+7,Word Embeddings and Semantic Representations,9,0.8932537824582718,abs-2208.09669v1,Lost in Context? On the Sense-wise Variance of Contextualized Word Embeddings
+7,Word Embeddings and Semantic Representations,10,0.893188924205591,abs-2010.12684v3,Dynamic Contextualized Word Embeddings
+7,Word Embeddings and Semantic Representations,11,0.8906017693111156,abs-2004.06519v1,Compass-aligned Distributional Embeddings for Studying Semantic Differences across Corpora
+7,Word Embeddings and Semantic Representations,12,0.8885338482270848,abs-2206.14388v1,Chinese Word Sense Embedding with SememeWSD and Synonym Set
+7,Word Embeddings and Semantic Representations,13,0.8846792139971832,abs-1911.01623v3,Incremental Sense Weight Training for the Interpretation of Contextualized Word Embeddings
+7,Word Embeddings and Semantic Representations,14,0.8831631437171199,abs-1504.05319v2,"Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word: The Impact of Word Representation on Sequence Labelling Tasks"
+7,Word Embeddings and Semantic Representations,15,0.8817251382315872,abs-2304.11340v1,Semantic Specialization for Knowledge-based Word Sense Disambiguation
+7,Word Embeddings and Semantic Representations,16,0.880692932971605,abs-1706.02807v2,Learning to Embed Words in Context for Syntactic Tasks
+7,Word Embeddings and Semantic Representations,17,0.8797646121995776,abs-1707.06961v1,Mimicking Word Embeddings using Subword RNNs
+7,Word Embeddings and Semantic Representations,18,0.8791314042382441,abs-2104.06200v1,On the Impact of Knowledge-based Linguistic Annotations in the Quality of Scientific Embeddings
+7,Word Embeddings and Semantic Representations,19,0.8785155750776976,abs-2106.14361v2,Word2Box: Capturing Set-Theoretic Semantics of Words using Box Embeddings
+7,Word Embeddings and Semantic Representations,20,0.8783664455784739,abs-1805.07882v1,Sentence Modeling via Multiple Word Embeddings and Multi-level Comparison for Semantic Textual Similarity
+7,Word Embeddings and Semantic Representations,21,0.8783588137433954,abs-2104.08465v1,Frequency-based Distortions in Contextualized Word Embeddings
+7,Word Embeddings and Semantic Representations,22,0.8780481301959004,abs-1708.06025v1,Portuguese Word Embeddings: Evaluating on Word Analogies and Natural Language Tasks
+7,Word Embeddings and Semantic Representations,23,0.8779948399368578,abs-1709.01199v1,Using $k$-way Co-occurrences for Learning Word Embeddings
+7,Word Embeddings and Semantic Representations,24,0.8778176778415543,abs-1710.02437v1,Learning Word Embeddings for Hyponymy with Entailment-Based Distributional Semantics
+7,Word Embeddings and Semantic Representations,25,0.8775602071623518,abs-1704.02963v1,Exploring Word Embeddings for Unsupervised Textual User-Generated Content Normalization
+8,Natural Language Processing,1,0.8512294927221222,abs-2212.02564v1,INCLUSIFY: A benchmark and a model for gender-inclusive German
+8,Natural Language Processing,2,0.8454681366628501,abs-2203.02092v1,Deep Lexical Hypothesis: Identifying personality structure in natural language
+8,Natural Language Processing,3,0.8444915494699836,abs-2207.09643v1,Integrating Linguistic Theory and Neural Language Models
+8,Natural Language Processing,4,0.8404296930330202,abs-2201.11990v3,"Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model"
+8,Natural Language Processing,5,0.8397275525433395,abs-2210.07041v1,Spontaneous Emerging Preference in Two-tower Language Model
+8,Natural Language Processing,6,0.839712010852677,abs-2311.08481v2,Functionality learning through specification instructions
+8,Natural Language Processing,7,0.8393878716525394,abs-1911.07613v1,A Subword Level Language Model for Bangla Language
+8,Natural Language Processing,8,0.8389111229787032,abs-2402.14379v2,Novi jezički modeli za srpski jezik
+8,Natural Language Processing,9,0.8385593651297558,abs-2312.09993v1,LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language
+8,Natural Language Processing,10,0.8341171855886168,abs-2201.09227v3,A Large and Diverse Arabic Corpus for Language Modeling
+8,Natural Language Processing,11,0.8323767256979007,abs-2207.10617v1,Leveraging Natural Supervision for Language Representation Learning and Generation
+8,Natural Language Processing,12,0.8323452487821604,abs-2312.15713v1,PersianLLaMA: Towards Building First Persian Large Language Model
+8,Natural Language Processing,13,0.828444212582482,abs-2403.02009v1,Topic Aware Probing: From Sentence Length Prediction to Idiom Identification how reliant are Neural Language Models on Topic?
+8,Natural Language Processing,14,0.8243443562574523,abs-2310.17271v1,Understanding the Role of Input Token Characters in Language Models: How Does Information Loss Affect Performance?
+8,Natural Language Processing,15,0.8222194407645858,abs-2402.18376v2,Tokenization Is More Than Compression
+8,Natural Language Processing,16,0.8217464257095026,abs-2201.04467v2,How Does Data Corruption Affect Natural Language Understanding Models? A Study on GLUE datasets
+8,Natural Language Processing,17,0.8217018335346614,abs-2404.08666v2,Revealing Trends in Datasets from the 2022 ACL and EMNLP Conferences
+8,Natural Language Processing,18,0.8208671395347606,abs-2104.08066v2,Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models
+8,Natural Language Processing,19,0.819765234758298,abs-2104.04692v3,Not All Attention Is All You Need
+8,Natural Language Processing,20,0.8180133534456684,abs-2406.15032v1,GiusBERTo: A Legal Language Model for Personal Data De-identification in Italian Court of Auditors Decisions
+8,Natural Language Processing,21,0.8160936010011675,abs-2403.13514v1,How Gender Interacts with Political Values: A Case Study on Czech BERT Models
+8,Natural Language Processing,22,0.8152274785163529,abs-2210.05287v2,Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training
+8,Natural Language Processing,23,0.8148331837985445,abs-2303.15619v1,Typhoon: Towards an Effective Task-Specific Masking Strategy for Pre-trained Language Models
+8,Natural Language Processing,24,0.8132628112505789,abs-2201.04275v3,PhysNLU: A Language Resource for Evaluating Natural Language Understanding and Explanation Coherence in Physics
+8,Natural Language Processing,25,0.8131558487107389,abs-2302.03896v3,EvoText: Enhancing Natural Language Generation Models via Self-Escalation Learning for Up-to-Date Knowledge and Improved Performance
+9,Time-Series Forecasting,1,0.9254555788893085,abs-2401.11929v4,Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting
+9,Time-Series Forecasting,2,0.9174168343840814,abs-2107.01705v1,Randomized Neural Networks for Forecasting Time Series with Multiple Seasonality
+9,Time-Series Forecasting,3,0.9159037833540455,abs-2008.12340v1,Forecasting with Multiple Seasonality
+9,Time-Series Forecasting,4,0.9141895260864843,abs-2410.22981v1,DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting
+9,Time-Series Forecasting,5,0.9093210086486156,abs-2109.09692v4,Modeling Regime Shifts in Multiple Time Series
+9,Time-Series Forecasting,6,0.9083853090342866,abs-2001.00559v1,A Deep Structural Model for Analyzing Correlated Multivariate Time Series
+9,Time-Series Forecasting,7,0.9076657674984644,abs-2104.11510v5,Time Series Forecasting via Learning Convolutionally Low-Rank Models
+9,Time-Series Forecasting,8,0.9021990199974258,abs-2212.10306v1,A Pattern Discovery Approach to Multivariate Time Series Forecasting
+9,Time-Series Forecasting,9,0.9015704582357364,abs-2203.04916v1,Monitoring Time Series With Missing Values: a Deep Probabilistic Approach
+9,Time-Series Forecasting,10,0.8988109082176081,abs-2001.08317v1,Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case
+9,Time-Series Forecasting,11,0.8984861311279657,abs-2406.12921v2,WindowMixer: Intra-Window and Inter-Window Modeling for Time Series Forecasting
+9,Time-Series Forecasting,12,0.8982900097437216,abs-2003.09311v1,Drift-Adjusted And Arbitrated Ensemble Framework For Time Series Forecasting
+9,Time-Series Forecasting,13,0.8979834819401014,abs-1711.00812v1,Channel masking for multivariate time series shapelets
+9,Time-Series Forecasting,14,0.8969218736056046,abs-1908.05339v2,Mixed pooling of seasonality for time series forecasting: An application to pallet transport data
+9,Time-Series Forecasting,15,0.8960011116655466,abs-2402.01902v1,EBV: Electronic Bee-Veterinarian for Principled Mining and Forecasting of Honeybee Time Series
+9,Time-Series Forecasting,16,0.8956117267885003,abs-2406.02496v1,Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability
+9,Time-Series Forecasting,17,0.8953898784236958,abs-2309.15871v1,Telescope: An Automated Hybrid Forecasting Approach on a Level-Playing Field
+9,Time-Series Forecasting,18,0.895159812493068,abs-2110.14354v1,MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data
+9,Time-Series Forecasting,19,0.893261239206629,abs-1710.05751v2,Time Series Prediction : Predicting Stock Price
+9,Time-Series Forecasting,20,0.892328689587761,abs-2311.18029v1,A Bag of Receptive Fields for Time Series Extrinsic Predictions
+9,Time-Series Forecasting,21,0.8922930319454931,abs-2401.02236v1,U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting
+9,Time-Series Forecasting,22,0.8910940440199594,abs-2408.12068v2,Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting
+9,Time-Series Forecasting,23,0.890487049102954,abs-2408.12801v1,Robust Predictions with Ambiguous Time Delays: A Bootstrap Strategy
+9,Time-Series Forecasting,24,0.8902960406898304,abs-2109.06489v1,Instance-wise Graph-based Framework for Multivariate Time Series Forecasting
+9,Time-Series Forecasting,25,0.8898690495778709,abs-2406.07438v2,DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting
+10,Image Segmentation and Image Analysis,1,0.8100046106675074,abs-2308.02606v1,Improving Human-Object Interaction Detection via Virtual Image Learning
+10,Image Segmentation and Image Analysis,2,0.7776703676284848,abs-1611.09969v2,High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
+10,Image Segmentation and Image Analysis,3,0.7763838618510931,abs-1907.12488v1,Benefiting from Multitask Learning to Improve Single Image Super-Resolution
+10,Image Segmentation and Image Analysis,4,0.7701205831736946,abs-1904.02520v1,Deep Multi-scale Discriminative Networks for Double JPEG Compression Forensics
+10,Image Segmentation and Image Analysis,5,0.7696881948164213,abs-1811.04815v3,Automatic kidney segmentation in ultrasound images using subsequent boundary distance regression and pixelwise classification networks
+10,Image Segmentation and Image Analysis,6,0.768185223778712,abs-2101.09992v2,Gigapixel Histopathological Image Analysis using Attention-based Neural Networks
+10,Image Segmentation and Image Analysis,7,0.7671755538407422,abs-2002.01325v1,A Two-Stream Symmetric Network with Bidirectional Ensemble for Aerial Image Matching
+10,Image Segmentation and Image Analysis,8,0.7667329680977275,abs-2308.03029v1,Brighten-and-Colorize: A Decoupled Network for Customized Low-Light Image Enhancement
+10,Image Segmentation and Image Analysis,9,0.7646710697139218,abs-2208.03357v1,Perceptual Artifacts Localization for Inpainting
+10,Image Segmentation and Image Analysis,10,0.764143491292341,abs-2201.04364v1,SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-Resolution
+10,Image Segmentation and Image Analysis,11,0.7639705347014074,abs-1808.08396v1,Noiseprint: a CNN-based camera model fingerprint
+10,Image Segmentation and Image Analysis,12,0.7637937736614254,abs-1507.02620v2,"Deep filter banks for texture recognition, description, and segmentation"
+10,Image Segmentation and Image Analysis,13,0.7604870432660796,abs-2101.07945v1,Beyond Fine-tuning: Classifying High Resolution Mammograms using Function-Preserving Transformations
+10,Image Segmentation and Image Analysis,14,0.7560905821272943,abs-2205.11063v1,Saliency-Driven Active Contour Model for Image Segmentation
+10,Image Segmentation and Image Analysis,15,0.7556267177037512,abs-1904.08632v1,Learning a No-Reference Quality Assessment Model of Enhanced Images With Big Data
+10,Image Segmentation and Image Analysis,16,0.7554248699014359,abs-1708.00180v1,Model-based learning of local image features for unsupervised texture segmentation
+10,Image Segmentation and Image Analysis,17,0.7547245140206682,abs-2010.09316v2,A Two-stage Unsupervised Approach for Low light Image Enhancement
+10,Image Segmentation and Image Analysis,18,0.7543713238031081,abs-1807.06779v1,An Attention-Based Approach for Single Image Super Resolution
+10,Image Segmentation and Image Analysis,19,0.7538649721162458,abs-2308.04039v1,Implicit neural representations for joint decomposition and registration of gene expression images in the marmoset brain
+10,Image Segmentation and Image Analysis,20,0.7536002147851929,abs-2010.15643v1,Free-Form Image Inpainting via Contrastive Attention Network
+10,Image Segmentation and Image Analysis,21,0.7524985549494045,abs-2305.05222v3,FishRecGAN: An End to End GAN Based Network for Fisheye Rectification and Calibration
+10,Image Segmentation and Image Analysis,22,0.7522621321833596,abs-2006.07525v1,Self-Supervised Discovery of Anatomical Shape Landmarks
+10,Image Segmentation and Image Analysis,23,0.751296375633611,abs-2105.02209v1,Physically Inspired Dense Fusion Networks for Relighting
+10,Image Segmentation and Image Analysis,24,0.7509225424524839,abs-2305.19787v2,DeepMerge: Deep-Learning-Based Region-Merging for Image Segmentation
+10,Image Segmentation and Image Analysis,25,0.7508851988175,abs-2004.00562v2,LGVTON: A Landmark Guided Approach to Virtual Try-On
+11,General Machine Learning and AI,1,0.7906665856169341,abs-1706.06974v1,"The Theory is Predictive, but is it Complete? An Application to Human Perception of Randomness"
+11,General Machine Learning and AI,2,0.7662985477372559,abs-2104.07245v3,Towards Handling Uncertainty-at-Source in AI -- A Review and Next Steps for Interval Regression
+11,General Machine Learning and AI,3,0.7630784593354106,abs-1909.13343v2,"ISTHMUS: Secure, Scalable, Real-time and Robust Machine Learning Platform for Healthcare"
+11,General Machine Learning and AI,4,0.7628902613948412,abs-2002.09945v1,On the Estimation of Complex Circuits Functional Failure Rate by Machine Learning Techniques
+11,General Machine Learning and AI,5,0.7628859442923136,abs-1804.09997v1,PANDA: Facilitating Usable AI Development
+11,General Machine Learning and AI,6,0.7609761943415744,abs-2003.00646v2,A review of machine learning applications in wildfire science and management
+11,General Machine Learning and AI,7,0.7571826745073295,abs-2209.09618v1,On a Uniform Causality Model for Industrial Automation
+11,General Machine Learning and AI,8,0.7567297518511846,abs-1905.09205v4,Evaluating recommender systems for AI-driven biomedical informatics
+11,General Machine Learning and AI,9,0.7558325854867127,abs-2211.15734v1,Predicting Football Match Outcomes with eXplainable Machine Learning and the Kelly Index
+11,General Machine Learning and AI,10,0.7550987276908363,abs-1902.02904v1,Modeling Heterogeneity in Mode-Switching Behavior Under a Mobility-on-Demand Transit System: An Interpretable Machine Learning Approach
+11,General Machine Learning and AI,11,0.7536448685675496,abs-2302.09319v1,MAILS -- Meta AI Literacy Scale: Development and Testing of an AI Literacy Questionnaire Based on Well-Founded Competency Models and Psychological Change- and Meta-Competencies
+11,General Machine Learning and AI,12,0.7512170869285582,abs-1606.05105v1,Machine Learning Across Cultures: Modeling the Adoption of Financial Services for the Poor
+11,General Machine Learning and AI,13,0.7511495464511407,abs-2012.12373v1,"The Life and Death of SSDs and HDDs: Similarities, Differences, and Prediction Models"
+11,General Machine Learning and AI,14,0.7502685984720042,abs-1805.05052v17,Machine Learning: The Basics
+11,General Machine Learning and AI,15,0.749549720397155,abs-2102.02329v2,Modeling Financial Products and their Supply Chains
+11,General Machine Learning and AI,16,0.7494683374309365,abs-2308.09947v1,Study on the effectiveness of AutoML in detecting cardiovascular disease
+11,General Machine Learning and AI,17,0.7485352764804252,abs-2108.07060v1,Detecting and interpreting faults in vulnerable power grids with machine learning
+11,General Machine Learning and AI,18,0.7474227378341936,abs-2209.01083v2,When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development
+11,General Machine Learning and AI,19,0.7451466453246767,abs-2206.11981v1,"Never trust, always verify : a roadmap for Trustworthy AI?"
+11,General Machine Learning and AI,20,0.7451274651734707,abs-2401.11698v1,Admission Prediction in Undergraduate Applications: an Interpretable Deep Learning Approach
+11,General Machine Learning and AI,21,0.7439358232182354,abs-1810.00968v1,Utilizing a Transparency-driven Environment toward Trusted Automatic Genre Classification: A Case Study in Journalism History
+11,General Machine Learning and AI,22,0.7438489381246054,abs-1810.04227v1,Rethinking multiscale cardiac electrophysiology with machine learning and predictive modelling
+11,General Machine Learning and AI,23,0.7437605721711757,abs-1908.02781v1,Flood Prediction Using Machine Learning Models: Literature Review
+11,General Machine Learning and AI,24,0.7427538661722877,abs-2103.16010v1,Theory-Guided Machine Learning for Process Simulation of Advanced Composites
+11,General Machine Learning and AI,25,0.7415502147939134,abs-1812.10389v2,Sequential model aggregation for production forecasting
+12,Federated Learning,1,0.9544394700351704,abs-2011.04050v1,Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning
+12,Federated Learning,2,0.9480353331153063,abs-2410.18862v1,FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning
+12,Federated Learning,3,0.9463572404179781,abs-2107.09627v1,Precision-Weighted Federated Learning
+12,Federated Learning,4,0.9437066429029274,abs-2211.03363v3,Over-The-Air Clustered Wireless Federated Learning
+12,Federated Learning,5,0.9406632915987541,abs-2104.08020v1,FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning
+12,Federated Learning,6,0.9403866882761704,abs-2401.09267v1,Risk-Aware Accelerated Wireless Federated Learning with Heterogeneous Clients
+12,Federated Learning,7,0.9402051000522564,abs-2305.15706v1,pFedSim: Similarity-Aware Model Aggregation Towards Personalized Federated Learning
+12,Federated Learning,8,0.939159215444343,abs-2110.14205v1,FedPrune: Towards Inclusive Federated Learning
+12,Federated Learning,9,0.9388082053038082,abs-2008.05687v1,WAFFLe: Weight Anonymized Factorization for Federated Learning
+12,Federated Learning,10,0.9386142474840482,abs-2006.10937v1,FedFMC: Sequential Efficient Federated Learning on Non-iid Data
+12,Federated Learning,11,0.9386131546467978,abs-2002.09574v2,Coded Federated Learning
+12,Federated Learning,12,0.9384404237577115,abs-2004.04986v2,Towards Federated Learning With Byzantine-Robust Client Weighting
+12,Federated Learning,13,0.9378161315131941,abs-1903.02891v1,Robust and Communication-Efficient Federated Learning from Non-IID Data
+12,Federated Learning,14,0.9358140091677041,abs-2010.02056v3,Specialized federated learning using a mixture of experts
+12,Federated Learning,15,0.9346722794412226,abs-2103.14375v2,Prior-Independent Auctions for the Demand Side of Federated Learning
+12,Federated Learning,16,0.9335511652197908,abs-2106.09433v1,Towards Heterogeneous Clients with Elastic Federated Learning
+12,Federated Learning,17,0.9332267515358093,abs-2010.01264v3,HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients
+12,Federated Learning,18,0.932424178572384,abs-2401.13366v2,Mitigating System Bias in Resource Constrained Asynchronous Federated Learning Systems
+12,Federated Learning,19,0.9312262355709212,abs-2208.06192v2,Personalizing or Not: Dynamically Personalized Federated Learning with Incentives
+12,Federated Learning,20,0.9310944313642711,abs-2005.12657v1,Continual Local Training for Better Initialization of Federated Models
+12,Federated Learning,21,0.9308911835504509,abs-2110.06978v2,WAFFLE: Weighted Averaging for Personalized Federated Learning
+12,Federated Learning,22,0.9305207449412181,abs-2407.04460v1,Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated Learning
+12,Federated Learning,23,0.9295772413320248,abs-2209.03090v1,Modular Federated Learning
+12,Federated Learning,24,0.9280301749978843,abs-2303.04887v2,Memory-adaptive Depth-wise Heterogenous Federated Learning
+12,Federated Learning,25,0.9275812738211474,abs-2309.07189v1,Learning From Drift: Federated Learning on Non-IID Data via Drift Regularization
+13,Object Detection and Tracking,1,0.881491593934579,abs-1812.00155v1,Learning RoI Transformer for Detecting Oriented Objects in Aerial Images
+13,Object Detection and Tracking,2,0.8812474895667769,abs-2104.11854v1,Oriented Bounding Boxes for Small and Freely Rotated Objects
+13,Object Detection and Tracking,3,0.8760515936097559,abs-2109.10187v5,Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram
+13,Object Detection and Tracking,4,0.8725184878258279,abs-1901.03796v1,Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes
+13,Object Detection and Tracking,5,0.8709854647464608,abs-1706.03646v2,Point Linking Network for Object Detection
+13,Object Detection and Tracking,6,0.8693822317753802,abs-2010.08720v1,"PolarDet: A Fast, More Precise Detector for Rotated Target in Aerial Images"
+13,Object Detection and Tracking,7,0.8662798084850969,abs-1805.10765v3,Learning Instance-Aware Object Detection Using Determinantal Point Processes
+13,Object Detection and Tracking,8,0.864304588704726,abs-1911.09358v2,Gliding vertex on the horizontal bounding box for multi-oriented object detection
+13,Object Detection and Tracking,9,0.8632089832677492,abs-1603.04146v3,Saliency Detection for Improving Object Proposals
+13,Object Detection and Tracking,10,0.8628490888918589,abs-1511.02300v2,Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images
+13,Object Detection and Tracking,11,0.8601084765202949,abs-2311.14757v1,PointOBB: Learning Oriented Object Detection via Single Point Supervision
+13,Object Detection and Tracking,12,0.8592730816983636,abs-2406.17297v2,Towards Open-set Camera 3D Object Detection
+13,Object Detection and Tracking,13,0.8591537039559187,abs-2005.11643v2,Robust Object Detection under Occlusion with Context-Aware CompositionalNets
+13,Object Detection and Tracking,14,0.8590565856079857,abs-2212.11720v3,GOOD: Exploring Geometric Cues for Detecting Objects in an Open World
+13,Object Detection and Tracking,15,0.8586611703359237,abs-1604.02135v2,A MultiPath Network for Object Detection
+13,Object Detection and Tracking,16,0.8580112494410896,abs-2311.14758v2,Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
+13,Object Detection and Tracking,17,0.8571942831150781,abs-2306.13526v1,Bridging the Performance Gap between DETR and R-CNN for Graphical Object Detection in Document Images
+13,Object Detection and Tracking,18,0.8563022573712928,abs-2104.12245v1,Single Stage Class Agnostic Common Object Detection: A Simple Baseline
+13,Object Detection and Tracking,19,0.8561082434453479,abs-1707.01691v1,RON: Reverse Connection with Objectness Prior Networks for Object Detection
+13,Object Detection and Tracking,20,0.8560691315452347,abs-2008.08418v2,Anchor-free Small-scale Multispectral Pedestrian Detection
+13,Object Detection and Tracking,21,0.8558422795843985,abs-2204.11582v3,Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection
+13,Object Detection and Tracking,22,0.8558156524141053,abs-1506.02640v5,"You Only Look Once: Unified, Real-Time Object Detection"
+13,Object Detection and Tracking,23,0.855576168804194,abs-1503.05038v1,3D Object Class Detection in the Wild
+13,Object Detection and Tracking,24,0.8554652663960335,abs-2002.10111v1,SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation
+13,Object Detection and Tracking,25,0.8548404176774445,abs-1604.00600v1,HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection
+14,Bayesian and Variational Inference,1,0.8522267908895282,abs-2205.05398v3,Scalable Stochastic Parametric Verification with Stochastic Variational Smoothed Model Checking
+14,Bayesian and Variational Inference,2,0.847141554884159,abs-2105.03109v2,Laplace Matching for fast Approximate Inference in Latent Gaussian Models
+14,Bayesian and Variational Inference,3,0.8465599212240746,abs-2407.08843v3,Inflationary Flows: Calibrated Bayesian Inference with Diffusion-Based Models
+14,Bayesian and Variational Inference,4,0.8414650787913428,abs-2110.10422v3,PriorVAE: Encoding spatial priors with VAEs for small-area estimation
+14,Bayesian and Variational Inference,5,0.8379827222534065,abs-2106.00719v2,Stochastic Collapsed Variational Inference for Structured Gaussian Process Regression Network
+14,Bayesian and Variational Inference,6,0.8338818770618444,abs-1906.03318v2,Efficient non-conjugate Gaussian process factor models for spike count data using polynomial approximations
+14,Bayesian and Variational Inference,7,0.8301314178856529,abs-2209.03117v1,Non-Gaussian Process Regression
+14,Bayesian and Variational Inference,8,0.8290330394447004,abs-2102.03151v1,Reducing the Amortization Gap in Variational Autoencoders: A Bayesian Random Function Approach
+14,Bayesian and Variational Inference,9,0.8283918261716492,abs-1711.08770v1,Diversity-Promoting Bayesian Learning of Latent Variable Models
+14,Bayesian and Variational Inference,10,0.8279878673708679,abs-1810.12750v1,Gaussian Process Conditional Density Estimation
+14,Bayesian and Variational Inference,11,0.8277302934084042,abs-2005.11110v2,Beyond the Mean-Field: Structured Deep Gaussian Processes Improve the Predictive Uncertainties
+14,Bayesian and Variational Inference,12,0.827428401289672,abs-1612.03957v3,Monte Carlo Structured SVI for Two-Level Non-Conjugate Models
+14,Bayesian and Variational Inference,13,0.8273848163973534,abs-2310.06643v3,Implicit Variational Inference for High-Dimensional Posteriors
+14,Bayesian and Variational Inference,14,0.823487502991409,abs-1706.05446v5,Adversarial Variational Bayes Methods for Tweedie Compound Poisson Mixed Models
+14,Bayesian and Variational Inference,15,0.8223453844280251,abs-1710.05086v2,A deep generative model for single-cell RNA sequencing with application to detecting differentially expressed genes
+14,Bayesian and Variational Inference,16,0.8203554006094036,abs-2203.11276v1,Model Comparison in Approximate Bayesian Computation
+14,Bayesian and Variational Inference,17,0.8175876556559069,abs-1906.03161v1,Structured Variational Inference in Continuous Cox Process Models
+14,Bayesian and Variational Inference,18,0.8142326110219891,abs-1511.06499v4,The Variational Gaussian Process
+14,Bayesian and Variational Inference,19,0.8140323939490843,abs-1509.01631v1,Stochastic gradient variational Bayes for gamma approximating distributions
+14,Bayesian and Variational Inference,20,0.8098708319880695,abs-1503.02182v1,Latent Gaussian Processes for Distribution Estimation of Multivariate Categorical Data
+14,Bayesian and Variational Inference,21,0.8097054409876608,abs-2108.09676v3,Efficient Gaussian Neural Processes for Regression
+14,Bayesian and Variational Inference,22,0.8092562941219457,abs-2110.07618v3,Function-space Inference with Sparse Implicit Processes
+14,Bayesian and Variational Inference,23,0.8074695707072379,abs-1808.00831v2,Efficient Bayesian Inference of Sigmoidal Gaussian Cox Processes
+14,Bayesian and Variational Inference,24,0.8074160578059421,abs-1903.00840v6,Variational Auto-Decoder: A Method for Neural Generative Modeling from Incomplete Data
+14,Bayesian and Variational Inference,25,0.8065386319610954,abs-2106.10905v3,Variational multiple shooting for Bayesian ODEs with Gaussian processes
+15,Optimization for Neural Network Training,1,0.9275939928949122,abs-1906.04285v2,Continuous Time Analysis of Momentum Methods
+15,Optimization for Neural Network Training,2,0.910801072554565,abs-2004.06977v1,On Learning Rates and Schrödinger Operators
+15,Optimization for Neural Network Training,3,0.907249660261411,abs-2107.05074v1,"SGD: The Role of Implicit Regularization, Batch-size and Multiple-epochs"
+15,Optimization for Neural Network Training,4,0.9062626695870877,abs-2006.09092v6,Learning Rates as a Function of Batch Size: A Random Matrix Theory Approach to Neural Network Training
+15,Optimization for Neural Network Training,5,0.9059118079846816,abs-2408.00573v2,Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks
+15,Optimization for Neural Network Training,6,0.9050960329631429,abs-1706.04638v3,Proximal Backpropagation
+15,Optimization for Neural Network Training,7,0.9039123216637889,abs-1712.06559v3,The Power of Interpolation: Understanding the Effectiveness of SGD in Modern Over-parametrized Learning
+15,Optimization for Neural Network Training,8,0.9018963131602458,abs-1801.03137v1,Convergence Analysis of Gradient Descent Algorithms with Proportional Updates
+15,Optimization for Neural Network Training,9,0.8953443845882934,abs-2205.00058v1,Implicit Regularization Properties of Variance Reduced Stochastic Mirror Descent
+15,Optimization for Neural Network Training,10,0.8940275315643578,abs-2306.07221v1,"Convergence of mean-field Langevin dynamics: Time and space discretization, stochastic gradient, and variance reduction"
+15,Optimization for Neural Network Training,11,0.8912239618545114,abs-2010.04786v1,Reparametrizing gradient descent
+15,Optimization for Neural Network Training,12,0.8898032386582493,abs-2408.02839v1,Optimizing Cox Models with Stochastic Gradient Descent: Theoretical Foundations and Practical Guidances
+15,Optimization for Neural Network Training,13,0.8876549036515816,abs-1810.13395v5,Accelerating SGD with momentum for over-parameterized learning
+15,Optimization for Neural Network Training,14,0.8870142762737214,abs-1510.04822v3,SGD with Variance Reduction beyond Empirical Risk Minimization
+15,Optimization for Neural Network Training,15,0.8867324846567958,abs-1803.05591v2,On the insufficiency of existing momentum schemes for Stochastic Optimization
+15,Optimization for Neural Network Training,16,0.886677953417645,abs-1703.09766v1,Unifying the Stochastic Spectral Descent for Restricted Boltzmann Machines with Bernoulli or Gaussian Inputs
+15,Optimization for Neural Network Training,17,0.8860486894272208,abs-1605.08233v2,Stochastic Variance Reduced Riemannian Eigensolver
+15,Optimization for Neural Network Training,18,0.8857029236200809,abs-2106.11514v3,Rethinking Adam: A Twofold Exponential Moving Average Approach
+15,Optimization for Neural Network Training,19,0.8846624977944986,abs-1806.01811v8,AdaGrad stepsizes: Sharp convergence over nonconvex landscapes
+15,Optimization for Neural Network Training,20,0.8837939432872934,abs-1902.02881v1,Combining learning rate decay and weight decay with complexity gradient descent - Part I
+15,Optimization for Neural Network Training,21,0.8836526106049417,abs-1504.01577v1,"From Averaging to Acceleration, There is Only a Step-size"
+15,Optimization for Neural Network Training,22,0.8835170495091127,abs-2002.04861v3,Training Two-Layer ReLU Networks with Gradient Descent is Inconsistent
+15,Optimization for Neural Network Training,23,0.882832513052146,abs-2006.11653v2,Towards Understanding Label Smoothing
+15,Optimization for Neural Network Training,24,0.8826258082664677,abs-1809.10505v1,The Convergence of Sparsified Gradient Methods
+15,Optimization for Neural Network Training,25,0.8822124128307546,abs-2406.16032v1,Effect of Random Learning Rate: Theoretical Analysis of SGD Dynamics in Non-Convex Optimization via Stationary Distribution
+16,Neural Machine Translation,1,0.9387574033402764,abs-1610.05243v1,Pre-Translation for Neural Machine Translation
+16,Neural Machine Translation,2,0.9355694577991134,abs-1709.08898v2,Improving a Multi-Source Neural Machine Translation Model with Corpus Extension for Low-Resource Languages
+16,Neural Machine Translation,3,0.935399418080014,abs-1503.03535v2,On Using Monolingual Corpora in Neural Machine Translation
+16,Neural Machine Translation,4,0.9351505266099984,abs-1903.00149v1,Chinese-Japanese Unsupervised Neural Machine Translation Using Sub-character Level Information
+16,Neural Machine Translation,5,0.9332681184635347,abs-2412.16877v1,Reconsidering SMT Over NMT for Closely Related Languages: A Case Study of Persian-Hindi Pair
+16,Neural Machine Translation,6,0.932085754189314,abs-1910.06753v2,On the Importance of Word Boundaries in Character-level Neural Machine Translation
+16,Neural Machine Translation,7,0.9308617950948795,abs-1612.04629v3,How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs
+16,Neural Machine Translation,8,0.9305081475593304,abs-1910.14075v1,Fill in the Blanks: Imputing Missing Sentences for Larger-Context Neural Machine Translation
+16,Neural Machine Translation,9,0.9303243677301676,abs-1909.07907v1,Pointer-based Fusion of Bilingual Lexicons into Neural Machine Translation
+16,Neural Machine Translation,10,0.9297202643734714,abs-1704.04521v1,Translation of Patent Sentences with a Large Vocabulary of Technical Terms Using Neural Machine Translation
+16,Neural Machine Translation,11,0.9289475903438331,abs-2011.12165v1,Two-Way Neural Machine Translation: A Proof of Concept for Bidirectional Translation Modeling using a Two-Dimensional Grid
+16,Neural Machine Translation,12,0.9284302029883164,abs-2104.03543v3,Extended Parallel Corpus for Amharic-English Machine Translation
+16,Neural Machine Translation,13,0.9269127873311227,abs-1804.08198v3,A neural interlingua for multilingual machine translation
+16,Neural Machine Translation,14,0.9256224507821058,abs-1809.03182v1,Towards one-shot learning for rare-word translation with external experts
+16,Neural Machine Translation,15,0.9239028895274732,abs-1711.01006v1,Towards Neural Machine Translation with Partially Aligned Corpora
+16,Neural Machine Translation,16,0.9231919788449834,abs-2006.08881v1,Scalable Cross Lingual Pivots to Model Pronoun Gender for Translation
+16,Neural Machine Translation,17,0.9226576345443864,abs-1511.06709v4,Improving Neural Machine Translation Models with Monolingual Data
+16,Neural Machine Translation,18,0.922603245646284,abs-1704.05135v1,Does Neural Machine Translation Benefit from Larger Context?
+16,Neural Machine Translation,19,0.9221173279822811,abs-1512.04650v2,Agreement-based Joint Training for Bidirectional Attention-based Neural Machine Translation
+16,Neural Machine Translation,20,0.9220576086672058,abs-1805.07133v1,Combining Advanced Methods in Japanese-Vietnamese Neural Machine Translation
+16,Neural Machine Translation,21,0.9218957174274383,abs-2208.05225v2,How Effective is Byte Pair Encoding for Out-Of-Vocabulary Words in Neural Machine Translation?
+16,Neural Machine Translation,22,0.9217674254942698,abs-2004.13819v1,Neural Machine Translation for Low-Resourced Indian Languages
+16,Neural Machine Translation,23,0.9210939177135581,abs-1701.02901v1,A Multifaceted Evaluation of Neural versus Phrase-Based Machine Translation for 9 Language Directions
+16,Neural Machine Translation,24,0.9208129108417697,abs-2202.08882v1,Improving English to Sinhala Neural Machine Translation using Part-of-Speech Tag
+16,Neural Machine Translation,25,0.9207868279766798,abs-1510.05203v1,Neural Reranking Improves Subjective Quality of Machine Translation: NAIST at WAT2015
+17,3D Vision and Pose Estimation,1,0.8567364807043444,abs-2302.12883v1,3D Surface Reconstruction in the Wild by Deforming Shape Priors from Synthetic Data
+17,3D Vision and Pose Estimation,2,0.8383946417566812,abs-2004.00740v2,Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences
+17,3D Vision and Pose Estimation,3,0.8375118409568164,abs-2212.04492v3,Few-View Object Reconstruction with Unknown Categories and Camera Poses
+17,3D Vision and Pose Estimation,4,0.830464886342879,abs-1809.00553v1,Object Pose Estimation from Monocular Image using Multi-View Keypoint Correspondence
+17,3D Vision and Pose Estimation,5,0.8304249473558852,abs-2104.02527v4,Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
+17,3D Vision and Pose Estimation,6,0.8295278950970921,abs-2004.01588v1,HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map
+17,3D Vision and Pose Estimation,7,0.8282028985871888,abs-2010.09409v1,SD-DefSLAM: Semi-Direct Monocular SLAM for Deformable and Intracorporeal Scenes
+17,3D Vision and Pose Estimation,8,0.8281035805887753,abs-1805.04949v1,DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map
+17,3D Vision and Pose Estimation,9,0.8253445457936563,abs-1712.03342v3,Geometry-Aware Learning of Maps for Camera Localization
+17,3D Vision and Pose Estimation,10,0.8220541031746704,abs-2104.02761v1,Lidar-Monocular Surface Reconstruction Using Line Segments
+17,3D Vision and Pose Estimation,11,0.8205037037805564,abs-1905.07718v2,Geometric Pose Affordance: 3D Human Pose with Scene Constraints
+17,3D Vision and Pose Estimation,12,0.8188711827749163,abs-1812.02050v1,Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer
+17,3D Vision and Pose Estimation,13,0.8183559445532063,abs-1808.09208v1,DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth
+17,3D Vision and Pose Estimation,14,0.8156543772123057,abs-2303.16102v3,KeyMatchNet: Zero-Shot Pose Estimation in 3D Point Clouds by Generalized Keypoint Matching
+17,3D Vision and Pose Estimation,15,0.8150310450394488,abs-2012.05214v2,E3D: Event-Based 3D Shape Reconstruction
+17,3D Vision and Pose Estimation,16,0.8140818692359858,abs-2110.00620v2,SPEC: Seeing People in the Wild with an Estimated Camera
+17,3D Vision and Pose Estimation,17,0.8075984724937736,abs-1904.00276v1,Person-in-WiFi: Fine-grained Person Perception using WiFi
+17,3D Vision and Pose Estimation,18,0.806768893517112,abs-2106.08059v1,Real-time Pose and Shape Reconstruction of Two Interacting Hands With a Single Depth Camera
+17,3D Vision and Pose Estimation,19,0.8062599852161316,abs-1905.06499v1,Bimodal Stereo: Joint Shape and Pose Estimation from Color-Depth Image Pair
+17,3D Vision and Pose Estimation,20,0.8035783243030389,abs-1908.00439v1,Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images
+17,3D Vision and Pose Estimation,21,0.8035563124511631,abs-2303.17166v3,Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption
+17,3D Vision and Pose Estimation,22,0.8012471084212686,abs-2104.08160v1,Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration
+17,3D Vision and Pose Estimation,23,0.8002249509262666,abs-2308.02153v2,Robust Self-Supervised Extrinsic Self-Calibration
+17,3D Vision and Pose Estimation,24,0.7990612616356334,abs-2205.09111v1,BodyMap: Learning Full-Body Dense Correspondence Map
+17,3D Vision and Pose Estimation,25,0.798146593901818,abs-1811.07461v1,Indoor GeoNet: Weakly Supervised Hybrid Learning for Depth and Pose Estimation
+18,Clustering Methods,1,0.8944385236800046,abs-2103.14376v1,Geometric Affinity Propagation for Clustering with Network Knowledge
+18,Clustering Methods,2,0.8931307451465474,abs-1604.04893v1,An Initial Seed Selection Algorithm for K-means Clustering of Georeferenced Data to Improve Replicability of Cluster Assignments for Mapping Application
+18,Clustering Methods,3,0.8917426013973435,abs-1909.04406v3,Subspace clustering without knowing the number of clusters: A parameter free approach
+18,Clustering Methods,4,0.8913846843951578,abs-1911.08871v1,CNAK : Cluster Number Assisted K-means
+18,Clustering Methods,5,0.8903908155531244,abs-1612.08714v2,Clustering with Confidence: Finding Clusters with Statistical Guarantees
+18,Clustering Methods,6,0.8902984985082009,abs-1911.10293v1,A Domain Adaptive Density Clustering Algorithm for Data with Varying Density Distribution
+18,Clustering Methods,7,0.8895725460463566,abs-1712.06206v2,"Path-Based Spectral Clustering: Guarantees, Robustness to Outliers, and Fast Algorithms"
+18,Clustering Methods,8,0.8893453497992414,abs-2010.11821v3,Scalable Hierarchical Agglomerative Clustering
+18,Clustering Methods,9,0.8874956398353362,abs-1901.07689v1,Simultaneous Subspace Clustering and Cluster Number Estimating based on Triplet Relationship
+18,Clustering Methods,10,0.8853048358910243,abs-2211.01877v2,Convex Clustering through MM: An Efficient Algorithm to Perform Hierarchical Clustering
+18,Clustering Methods,11,0.8851640640190408,abs-1810.03419v1,Unique Metric for Health Analysis with Optimization of Clustering Activity and Cross Comparison of Results from Different Approach
+18,Clustering Methods,12,0.8843567554138558,abs-1804.02744v4,Unsupervised Learning of GMM with a Uniform Background Component
+18,Clustering Methods,13,0.8831038822853772,abs-2009.01328v2,An Internal Cluster Validity Index Using a Distance-based Separability Measure
+18,Clustering Methods,14,0.8824676336107582,abs-2403.05669v1,Spectral Clustering of Categorical and Mixed-type Data via Extra Graph Nodes
+18,Clustering Methods,15,0.8819559357351077,abs-2008.09570v2,ConiVAT: Cluster Tendency Assessment and Clustering with Partial Background Knowledge
+18,Clustering Methods,16,0.8813135425925761,abs-1610.04751v1,Unsupervised clustering under the Union of Polyhedral Cones (UOPC) model
+18,Clustering Methods,17,0.8803591951268541,abs-1705.01877v1,Semi-supervised model-based clustering with controlled clusters leakage
+18,Clustering Methods,18,0.8799295445910709,abs-1611.01060v1,A-Ward_p\b{eta}: Effective hierarchical clustering using the Minkowski metric and a fast k -means initialisation
+18,Clustering Methods,19,0.8798434699771053,abs-1902.03833v1,A Distributed and Approximated Nearest Neighbors Algorithm for an Efficient Large Scale Mean Shift Clustering
+18,Clustering Methods,20,0.8784528470960516,abs-2111.02302v3,"Selecting the number of clusters, clustering models, and algorithms. A unifying approach based on the quadratic discriminant score"
+18,Clustering Methods,21,0.8783984878406447,abs-2404.09243v1,LSROM: Learning Self-Refined Organizing Map for Fast Imbalanced Streaming Data Clustering
+18,Clustering Methods,22,0.8780525313548927,abs-2008.09903v1,iCVI-ARTMAP: Accelerating and improving clustering using adaptive resonance theory predictive mapping and incremental cluster validity indices
+18,Clustering Methods,23,0.8771196652245689,abs-1807.05926v1,Novel Feature-Based Clustering of Micro-Panel Data (CluMP)
+18,Clustering Methods,24,0.8764366888154413,abs-1705.02232v1,Spherical Wards clustering and generalized Voronoi diagrams
+18,Clustering Methods,25,0.8763225436404043,abs-1806.01552v1,A Visual Quality Index for Fuzzy C-Means
+19,Generative Adversarial Networks,1,0.9070829452551032,abs-2111.02316v1,Improving Model Compatibility of Generative Adversarial Networks by Boundary Calibration
+19,Generative Adversarial Networks,2,0.9041870826323424,abs-1612.04021v1,Generative Adversarial Parallelization
+19,Generative Adversarial Networks,3,0.8922771033195616,abs-1712.04086v3,PacGAN: The power of two samples in generative adversarial networks
+19,Generative Adversarial Networks,4,0.8903932679036495,abs-2203.09639v1,Generating unrepresented proportions of geological facies using Generative Adversarial Networks
+19,Generative Adversarial Networks,5,0.8893563787625609,abs-2109.02117v1,VARGAN: Variance Enforcing Network Enhanced GAN
+19,Generative Adversarial Networks,6,0.8886450576936162,abs-1705.09675v3,Fisher GAN
+19,Generative Adversarial Networks,7,0.8875700968354134,abs-1909.10652v1,Generating Geological Facies Models with Fidelity to Diversity and Statistics of Training Images using Improved Generative Adversarial Networks
+19,Generative Adversarial Networks,8,0.8873701394057567,abs-1807.00780v1,Ambient Hidden Space of Generative Adversarial Networks
+19,Generative Adversarial Networks,9,0.8868209065662055,abs-1706.02071v1,DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data
+19,Generative Adversarial Networks,10,0.8849565175797928,abs-1806.10840v2,Training Discriminative Models to Evaluate Generative Ones
+19,Generative Adversarial Networks,11,0.8836137448596776,abs-1711.07461v4,Bidirectional Conditional Generative Adversarial Networks
+19,Generative Adversarial Networks,12,0.883395240827124,abs-2008.03712v1,Intervention Generative Adversarial Networks
+19,Generative Adversarial Networks,13,0.8823913314663647,abs-1611.08207v4,Texture Synthesis with Spatial Generative Adversarial Networks
+19,Generative Adversarial Networks,14,0.8818498459873092,abs-1611.01673v3,Generative Multi-Adversarial Networks
+19,Generative Adversarial Networks,15,0.8810672133377763,abs-2007.06418v2,Lessons Learned from the Training of GANs on Artificial Datasets
+19,Generative Adversarial Networks,16,0.8810254616604083,abs-2006.11432v1,Online Kernel based Generative Adversarial Networks
+19,Generative Adversarial Networks,17,0.8804439046751671,abs-1905.07061v1,Non-Parametric Priors For Generative Adversarial Networks
+19,Generative Adversarial Networks,18,0.8799896982203861,abs-1705.09367v2,Stabilizing Training of Generative Adversarial Networks through Regularization
+19,Generative Adversarial Networks,19,0.8789096026007155,abs-1705.08868v2,Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models
+19,Generative Adversarial Networks,20,0.8773500733121747,abs-1908.01219v1,On the Veracity of Cyber Intrusion Alerts Synthesized by Generative Adversarial Networks
+19,Generative Adversarial Networks,21,0.8767891317606802,abs-1806.07185v1,Mixed batches and symmetric discriminators for GAN training
+19,Generative Adversarial Networks,22,0.8760151815314017,abs-1902.06938v1,Label-Removed Generative Adversarial Networks Incorporating with K-Means
+19,Generative Adversarial Networks,23,0.8757444818566732,abs-2107.07260v3,MCL-GAN: Generative Adversarial Networks with Multiple Specialized Discriminators
+19,Generative Adversarial Networks,24,0.8756274947043514,abs-2006.10331v1,MMCGAN: Generative Adversarial Network with Explicit Manifold Prior
+19,Generative Adversarial Networks,25,0.8756217435131539,abs-1703.02291v4,Triple Generative Adversarial Nets
+20,Evolutionary and Multi-Objective Optimization,1,0.8876091725256512,abs-1707.06169v1,Fish School Search Algorithm for Constrained Optimization
+20,Evolutionary and Multi-Objective Optimization,2,0.8738615804233762,abs-2403.08807v1,Effective anytime algorithm for multiobjective combinatorial optimization problems
+20,Evolutionary and Multi-Objective Optimization,3,0.8736461094061636,abs-1609.03993v1,A Generic Bet-and-run Strategy for Speeding Up Traveling Salesperson and Minimum Vertex Cover
+20,Evolutionary and Multi-Objective Optimization,4,0.8692407896372862,abs-1504.04421v1,Feasibility Preserving Constraint-Handling Strategies for Real Parameter Evolutionary Optimization
+20,Evolutionary and Multi-Objective Optimization,5,0.8671401684088829,abs-2405.13298v1,An Efficient Approach for Solving Expensive Constrained Multiobjective Optimization Problems
+20,Evolutionary and Multi-Objective Optimization,6,0.8648776123386241,abs-2310.07723v1,Equitable and Fair Performance Evaluation of Whale Optimization Algorithm
+20,Evolutionary and Multi-Objective Optimization,7,0.8642980946047385,abs-2209.01073v1,Improved Fitness Dependent Optimizer for Solving Economic Load Dispatch Problem
+20,Evolutionary and Multi-Objective Optimization,8,0.8641944905994046,abs-2410.12188v1,A Lattice-based Method for Optimization in Continuous Spaces with Genetic Algorithms
+20,Evolutionary and Multi-Objective Optimization,9,0.8635830626656957,abs-1506.05424v1,Hybrid Algorithm for Multi-Objective Optimization by Greedy Hypervolume Maximization
+20,Evolutionary and Multi-Objective Optimization,10,0.8634417354028107,abs-2401.06153v2,Multimodal Optimization with k-Cluster Big Bang-Big Crunch Algorithm and Postprocessing Methods for Identification and Quantification of Optima
+20,Evolutionary and Multi-Objective Optimization,11,0.8609309428195913,abs-2101.10901v1,Population-Based Methods: PARTICLE SWARM OPTIMIZATION -- Development of a General-Purpose Optimizer and Applications
+20,Evolutionary and Multi-Objective Optimization,12,0.8606125810165357,abs-2101.10933v1,Constraint-Handling Techniques for Particle Swarm Optimization Algorithms
+20,Evolutionary and Multi-Objective Optimization,13,0.8604958741806984,abs-2311.06063v1,RIGA: A Regret-Based Interactive Genetic Algorithm
+20,Evolutionary and Multi-Objective Optimization,14,0.8596102466855877,abs-1706.00037v1,A Diversified Multi-Start Algorithm for Unconstrained Binary Quadratic Problems Leveraging the Graphics Processor Unit
+20,Evolutionary and Multi-Objective Optimization,15,0.8587025111438605,abs-2102.09954v1,A bi-level encoding scheme for the clustered shortest-path tree problem in multifactorial optimization
+20,Evolutionary and Multi-Objective Optimization,16,0.854937095721346,abs-2003.11902v1,Implementing a GPU-based parallel MAX-MIN Ant System
+20,Evolutionary and Multi-Objective Optimization,17,0.8548483618961727,abs-2104.02559v1,The Tangent Search Algorithm for Solving Optimization Problems
+20,Evolutionary and Multi-Objective Optimization,18,0.8538716896701979,abs-2104.11072v1,cMLSGA: A Co-Evolutionary Multi-Level Selection Genetic Algorithm for Multi-Objective Optimization
+20,Evolutionary and Multi-Objective Optimization,19,0.8521479347108922,abs-2011.10760v1,Enhanced Innovized Repair Operator for Evolutionary Multi- and Many-objective Optimization
+20,Evolutionary and Multi-Objective Optimization,20,0.8516202067769961,abs-2408.16393v1,Illuminating the Diversity-Fitness Trade-Off in Black-Box Optimization
+20,Evolutionary and Multi-Objective Optimization,21,0.8515930748217464,abs-2303.16908v1,Hybrid ACO-CI Algorithm for Beam Design problems
+20,Evolutionary and Multi-Objective Optimization,22,0.8514867468096006,abs-1811.10225v1,A novel particle swarm optimizer with multi-stage transformation and genetic operation for VLSI routing
+20,Evolutionary and Multi-Objective Optimization,23,0.8514762851878843,abs-2002.03102v1,A Constraint Driven Solution Model for Discrete Domains with a Case Study of Exam Timetabling Problems
+20,Evolutionary and Multi-Objective Optimization,24,0.8511634023965778,abs-2109.13738v1,Searching for a practical evidence of the No Free Lunch theorems
+20,Evolutionary and Multi-Objective Optimization,25,0.8510169742162732,abs-1709.05915v1,Push and Pull Search for Solving Constrained Multi-objective Optimization Problems
+21,Reinforcement Learning,1,0.9012625769601941,abs-1907.12392v5,A Unified Bellman Optimality Principle Combining Reward Maximization and Empowerment
+21,Reinforcement Learning,2,0.8992710641349791,abs-2210.07573v1,Model-based Safe Deep Reinforcement Learning via a Constrained Proximal Policy Optimization Algorithm
+21,Reinforcement Learning,3,0.8939790256182508,abs-1711.06782v1,Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning
+21,Reinforcement Learning,4,0.8914437390522643,abs-2008.09450v1,Adversarial Imitation Learning via Random Search
+21,Reinforcement Learning,5,0.8897261195020929,abs-1803.06773v1,Composable Deep Reinforcement Learning for Robotic Manipulation
+21,Reinforcement Learning,6,0.8881454102331651,abs-2212.14214v4,Backward Curriculum Reinforcement Learning
+21,Reinforcement Learning,7,0.8862212089726098,abs-2210.04820v1,Long N-step Surrogate Stage Reward to Reduce Variances of Deep Reinforcement Learning in Complex Problems
+21,Reinforcement Learning,8,0.8857186252435071,abs-2212.06998v1,Safety Correction from Baseline: Towards the Risk-aware Policy in Robotics via Dual-agent Reinforcement Learning
+21,Reinforcement Learning,9,0.884713789378288,abs-2405.09086v1,Chaos-based reinforcement learning with TD3
+21,Reinforcement Learning,10,0.8821717673477389,abs-2109.11251v2,Trust Region Policy Optimisation in Multi-Agent Reinforcement Learning
+21,Reinforcement Learning,11,0.881921759692563,abs-2007.07812v1,Inverse Reinforcement Learning from a Gradient-based Learner
+21,Reinforcement Learning,12,0.8817070564216483,abs-2004.01223v1,Value Driven Representation for Human-in-the-Loop Reinforcement Learning
+21,Reinforcement Learning,13,0.8815191712573688,abs-1807.01425v1,Region Growing Curriculum Generation for Reinforcement Learning
+21,Reinforcement Learning,14,0.880955596452664,abs-1909.07543v3,Attraction-Repulsion Actor-Critic for Continuous Control Reinforcement Learning
+21,Reinforcement Learning,15,0.8807452689029115,abs-1604.06057v2,Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation
+21,Reinforcement Learning,16,0.8784864450019163,abs-2009.04777v1,A framework for reinforcement learning with autocorrelated actions
+21,Reinforcement Learning,17,0.8775272655010982,abs-2205.07015v3,Cliff Diving: Exploring Reward Surfaces in Reinforcement Learning Environments
+21,Reinforcement Learning,18,0.87570702344495,abs-1906.08387v1,Experience Replay Optimization
+21,Reinforcement Learning,19,0.8755435804031575,abs-1907.11971v1,Towards Model-based Reinforcement Learning for Industry-near Environments
+21,Reinforcement Learning,20,0.8754031674575016,abs-2104.04004v4,ACERAC: Efficient reinforcement learning in fine time discretization
+21,Reinforcement Learning,21,0.8753607456243546,abs-2002.03327v2,Reward Tweaking: Maximizing the Total Reward While Planning for Short Horizons
+21,Reinforcement Learning,22,0.87488746364826,abs-1911.09391v1,Accelerating Reinforcement Learning with Suboptimal Guidance
+21,Reinforcement Learning,23,0.874597746828323,abs-2001.03877v1,Deep Reinforcement Learning for Complex Manipulation Tasks with Sparse Feedback
+21,Reinforcement Learning,24,0.8745734277849412,abs-2203.03292v1,On Credit Assignment in Hierarchical Reinforcement Learning
+21,Reinforcement Learning,25,0.872600526937882,abs-1909.11939v6,MERL: Multi-Head Reinforcement Learning
+22,Adversarial Robustness,1,0.9294016359840904,abs-2006.12655v4,Perceptual Adversarial Robustness: Defense Against Unseen Threat Models
+22,Adversarial Robustness,2,0.9258965852917306,abs-1810.03739v1,Efficient Two-Step Adversarial Defense for Deep Neural Networks
+22,Adversarial Robustness,3,0.9201000637061546,abs-2306.14262v1,A Spectral Perspective towards Understanding and Improving Adversarial Robustness
+22,Adversarial Robustness,4,0.9183659916869682,abs-1805.00310v2,On the Limitation of MagNet Defense against $L_1$-based Adversarial Examples
+22,Adversarial Robustness,5,0.9165028245972981,abs-1812.10049v2,PPD: Permutation Phase Defense Against Adversarial Examples in Deep Learning
+22,Adversarial Robustness,6,0.9152467545691936,abs-1912.02598v2,Region-Wise Attack: On Efficient Generation of Robust Physical Adversarial Examples
+22,Adversarial Robustness,7,0.9141542954230223,abs-2104.03000v1,Universal Adversarial Training with Class-Wise Perturbations
+22,Adversarial Robustness,8,0.9132899158900165,abs-1902.03151v2,Discretization based Solutions for Secure Machine Learning against Adversarial Attacks
+22,Adversarial Robustness,9,0.9127685960348044,abs-1909.05443v1,Feedback Learning for Improving the Robustness of Neural Networks
+22,Adversarial Robustness,10,0.91239041461383,abs-1803.07994v1,Adversarial Defense based on Structure-to-Signal Autoencoders
+22,Adversarial Robustness,11,0.9122567276785241,abs-1710.06081v3,Boosting Adversarial Attacks with Momentum
+22,Adversarial Robustness,12,0.9108584399059467,abs-2102.03726v1,Adversarial example generation with AdaBelief Optimizer and Crop Invariance
+22,Adversarial Robustness,13,0.9106409659023531,abs-2210.17140v1,Scoring Black-Box Models for Adversarial Robustness
+22,Adversarial Robustness,14,0.9104408404102818,abs-1905.11736v5,Cross-Domain Transferability of Adversarial Perturbations
+22,Adversarial Robustness,15,0.9088365297362597,abs-1904.01160v1,Curls & Whey: Boosting Black-Box Adversarial Attacks
+22,Adversarial Robustness,16,0.9085402870348798,abs-2006.14748v2,Proper Network Interpretability Helps Adversarial Robustness in Classification
+22,Adversarial Robustness,17,0.908162412088882,abs-1902.08265v1,Quantifying Perceptual Distortion of Adversarial Examples
+22,Adversarial Robustness,18,0.9081337309769397,abs-1910.03624v1,SmoothFool: An Efficient Framework for Computing Smooth Adversarial Perturbations
+22,Adversarial Robustness,19,0.9078299630927478,abs-1911.11881v1,An Adaptive View of Adversarial Robustness from Test-time Smoothing Defense
+22,Adversarial Robustness,20,0.9074734144922192,abs-1904.08554v6,Gotta Catch 'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks
+22,Adversarial Robustness,21,0.907045839882759,abs-2212.12732v1,Frequency Regularization for Improving Adversarial Robustness
+22,Adversarial Robustness,22,0.906764651582901,abs-1906.03749v1,Improved Adversarial Robustness via Logit Regularization Methods
+22,Adversarial Robustness,23,0.9058837781450538,abs-2010.09633v1,Verifying the Causes of Adversarial Examples
+22,Adversarial Robustness,24,0.9054406004840526,abs-1810.12042v3,Logit Pairing Methods Can Fool Gradient-Based Attacks
+22,Adversarial Robustness,25,0.9054319166749326,abs-2008.07838v2,Improving adversarial robustness of deep neural networks by using semantic information
+23,Convolutional Neural Networks,1,0.8693824379770609,abs-1803.01906v1,Abnormality Detection in Mammography using Deep Convolutional Neural Networks
+23,Convolutional Neural Networks,2,0.8602328733384095,abs-1709.09429v1,FoodNet: Recognizing Foods Using Ensemble of Deep Networks
+23,Convolutional Neural Networks,3,0.8570695229714785,abs-1707.08105v2,Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks
+23,Convolutional Neural Networks,4,0.8548970025422002,abs-1807.01418v2,Selective Deep Convolutional Neural Network for Low Cost Distorted Image Classification
+23,Convolutional Neural Networks,5,0.8408674754731514,abs-1708.04483v1,Learning with Rethinking: Recurrently Improving Convolutional Neural Networks through Feedback
+23,Convolutional Neural Networks,6,0.8390240799994969,abs-2110.15895v1,Application of 2-D Convolutional Neural Networks for Damage Detection in Steel Frame Structures
+23,Convolutional Neural Networks,7,0.8389532313937746,abs-1804.08528v5,A New Channel Boosted Convolutional Neural Network using Transfer Learning
+23,Convolutional Neural Networks,8,0.8387321304671416,abs-1502.07802v1,Modelling Local Deep Convolutional Neural Network Features to Improve Fine-Grained Image Classification
+23,Convolutional Neural Networks,9,0.8385287804858067,abs-1901.00120v2,Gated-Dilated Networks for Lung Nodule Classification in CT scans
+23,Convolutional Neural Networks,10,0.8374931742209957,abs-1810.11834v4,Enhanced CNN for image denoising
+23,Convolutional Neural Networks,11,0.8361098474612252,abs-1704.00248v1,A-Lamp: Adaptive Layout-Aware Multi-Patch Deep Convolutional Neural Network for Photo Aesthetic Assessment
+23,Convolutional Neural Networks,12,0.8342472945161414,abs-1506.04701v3,Multi-path Convolutional Neural Networks for Complex Image Classification
+23,Convolutional Neural Networks,13,0.8338695421393565,abs-2212.04255v2,Fruit Quality Assessment with Densely Connected Convolutional Neural Network
+23,Convolutional Neural Networks,14,0.8330921773711877,abs-1903.03137v1,A Learnable ScatterNet: Locally Invariant Convolutional Layers
+23,Convolutional Neural Networks,15,0.8329900195206466,abs-1805.04001v1,Dense and Diverse Capsule Networks: Making the Capsules Learn Better
+23,Convolutional Neural Networks,16,0.8309875805012716,abs-2002.03299v1,Convolutional Neural Network Pruning Using Filter Attenuation
+23,Convolutional Neural Networks,17,0.8301673559077696,abs-1904.09546v1,DeepCaps: Going Deeper with Capsule Networks
+23,Convolutional Neural Networks,18,0.82976440526474,abs-1511.07125v1,What Happened to My Dog in That Network: Unraveling Top-down Generators in Convolutional Neural Networks
+23,Convolutional Neural Networks,19,0.8289292321091186,abs-1704.01474v2,Convolutional Neural Networks for Page Segmentation of Historical Document Images
+23,Convolutional Neural Networks,20,0.8283876234726274,abs-1712.00003v1,Modeling Information Flow Through Deep Neural Networks
+23,Convolutional Neural Networks,21,0.8273973960555693,abs-1911.01141v1,Human eye inspired log-polar pre-processing for neural networks
+23,Convolutional Neural Networks,22,0.8263947145245812,abs-1509.06033v1,Deep Convolutional Features for Image Based Retrieval and Scene Categorization
+23,Convolutional Neural Networks,23,0.8260657237318406,abs-1812.00137v1,Automated segmentaiton and classification of arterioles and venules using Cascading Dilated Convolutional Neural Networks
+23,Convolutional Neural Networks,24,0.8252848297180444,abs-2208.00031v2,Paddy Leaf diseases identification on Infrared Images based on Convolutional Neural Networks
+23,Convolutional Neural Networks,25,0.8242637977285839,abs-1805.12289v1,Efficient Traffic-Sign Recognition with Scale-aware CNN
+24,Large Language Models,1,0.9231265820254853,abs-2403.00126v2,FAC$^2$E: Better Understanding Large Language Model Capabilities by Dissociating Language and Cognition
+24,Large Language Models,2,0.9136694548913262,abs-2305.15334v1,Gorilla: Large Language Model Connected with Massive APIs
+24,Large Language Models,3,0.9112408287145299,abs-2309.02654v3,Zero-Resource Hallucination Prevention for Large Language Models
+24,Large Language Models,4,0.9093852511894734,abs-2309.04646v1,Efficient Finetuning Large Language Models For Vietnamese Chatbot
+24,Large Language Models,5,0.9086338922100534,abs-2407.12823v1,WTU-EVAL: A Whether-or-Not Tool Usage Evaluation Benchmark for Large Language Models
+24,Large Language Models,6,0.9069708747893604,abs-2310.05818v1,SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese
+24,Large Language Models,7,0.9061805405643522,abs-2406.15673v2,Large Language Models have Intrinsic Self-Correction Ability
+24,Large Language Models,8,0.9058573594013983,abs-2403.06149v2,Can Large Language Models Automatically Score Proficiency of Written Essays?
+24,Large Language Models,9,0.9053229669644953,abs-2412.19450v2,Find the Intention of Instruction: Comprehensive Evaluation of Instruction Understanding for Large Language Models
+24,Large Language Models,10,0.90457431304317,abs-2405.04655v1,Understanding the Capabilities and Limitations of Large Language Models for Cultural Commonsense
+24,Large Language Models,11,0.9039138359931913,abs-2406.11668v1,"""Not Aligned"" is Not ""Malicious"": Being Careful about Hallucinations of Large Language Models' Jailbreak"
+24,Large Language Models,12,0.9038187309174576,abs-2310.04815v1,Critique Ability of Large Language Models
+24,Large Language Models,13,0.9015450679266963,abs-2312.15918v2,Supervised Knowledge Makes Large Language Models Better In-context Learners
+24,Large Language Models,14,0.9012693973535071,abs-2402.18807v1,On the Decision-Making Abilities in Role-Playing using Large Language Models
+24,Large Language Models,15,0.9009982052531913,abs-2406.17465v2,Enhancing Tool Retrieval with Iterative Feedback from Large Language Models
+24,Large Language Models,16,0.8995988089613134,abs-2311.17355v1,Are Large Language Models Good Fact Checkers: A Preliminary Study
+24,Large Language Models,17,0.8995461212141642,abs-2312.07711v1,Leveraging Large Language Models to Build and Execute Computational Workflows
+24,Large Language Models,18,0.8992273825361221,abs-2401.00396v2,RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
+24,Large Language Models,19,0.8976680695693806,abs-2403.04666v2,Telecom Language Models: Must They Be Large?
+24,Large Language Models,20,0.8974666158441542,abs-2309.05463v1,Textbooks Are All You Need II: phi-1.5 technical report
+24,Large Language Models,21,0.8974370463405665,abs-2305.13733v2,Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting
+24,Large Language Models,22,0.8970108392005306,abs-2412.03944v1,"Chain-of-Thought in Large Language Models: Decoding, Projection, and Activation"
+24,Large Language Models,23,0.8962312986645702,abs-2210.09150v2,Prompting GPT-3 To Be Reliable
+24,Large Language Models,24,0.8962175975188432,abs-2402.03776v4,Large Language Models As MOOCs Graders
+24,Large Language Models,25,0.8948614958111749,abs-2402.01822v2,Building Guardrails for Large Language Models
+25,General Learning and Classification Methods,1,0.7602641504233502,abs-1803.03166v1,Aggregation using input-output trade-off
+25,General Learning and Classification Methods,2,0.7561961016752179,abs-2006.01130v3,Theory and Algorithms for Shapelet-based Multiple-Instance Learning
+25,General Learning and Classification Methods,3,0.7495171317233229,abs-2311.00109v3,FairWASP: Fast and Optimal Fair Wasserstein Pre-processing
+25,General Learning and Classification Methods,4,0.7471866388440394,abs-2009.11360v1,EPEM: Efficient Parameter Estimation for Multiple Class Monotone Missing Data
+25,General Learning and Classification Methods,5,0.7462223746763479,abs-1907.06633v1,On improving learning capability of ELM and an application to brain-computer interface
+25,General Learning and Classification Methods,6,0.7451424606142796,abs-1606.02838v2,Sketching for Large-Scale Learning of Mixture Models
+25,General Learning and Classification Methods,7,0.7447116106326377,abs-2006.13018v3,The classification for High-dimension low-sample size data
+25,General Learning and Classification Methods,8,0.7445241643523716,abs-1508.04912v1,The ABACOC Algorithm: a Novel Approach for Nonparametric Classification of Data Streams
+25,General Learning and Classification Methods,9,0.7438028133216104,abs-2010.05843v2,How Important is the Train-Validation Split in Meta-Learning?
+25,General Learning and Classification Methods,10,0.7407110979697811,abs-2207.09560v3,Holistic Robust Data-Driven Decisions
+25,General Learning and Classification Methods,11,0.739901764207965,abs-2004.13335v2,A Doubly Regularized Linear Discriminant Analysis Classifier with Automatic Parameter Selection
+25,General Learning and Classification Methods,12,0.7350455788390998,abs-1806.06232v3,Binary Classification in Unstructured Space With Hypergraph Case-Based Reasoning
+25,General Learning and Classification Methods,13,0.7322419106380009,abs-1804.06207v1,MetaBags: Bagged Meta-Decision Trees for Regression
+25,General Learning and Classification Methods,14,0.7318724362738699,abs-2310.10098v1,PAC Learning Linear Thresholds from Label Proportions
+25,General Learning and Classification Methods,15,0.7314841997317724,abs-2202.01463v1,Minimax rate of consistency for linear models with missing values
+25,General Learning and Classification Methods,16,0.7282947240646994,abs-1612.01663v1,Efficient Non-oblivious Randomized Reduction for Risk Minimization with Improved Excess Risk Guarantee
+25,General Learning and Classification Methods,17,0.7280390844832502,abs-1809.09445v1,Fast Automatic Smoothing for Generalized Additive Models
+25,General Learning and Classification Methods,18,0.7272569239606343,abs-2102.12974v1,Learning High-Order Interactions via Targeted Pattern Search
+25,General Learning and Classification Methods,19,0.7267548073559318,abs-2009.01072v1,Spatial Classification With Limited Observations Based On Physics-Aware Structural Constraint
+25,General Learning and Classification Methods,20,0.725444692848674,abs-2411.08544v1,Deeper Insights into Learning Performance of Stochastic Configuration Networks
+25,General Learning and Classification Methods,21,0.7254032083430284,abs-2007.01357v3,Efficient computation and analysis of distributional Shapley values
+25,General Learning and Classification Methods,22,0.7251738214686692,abs-1802.08465v2,AEkNN: An AutoEncoder kNN-based classifier with built-in dimensionality reduction
+25,General Learning and Classification Methods,23,0.7251594414246552,abs-1701.07213v1,Learning from Label Proportions in Brain-Computer Interfaces: Online Unsupervised Learning with Guarantees
+25,General Learning and Classification Methods,24,0.724418024804577,abs-1508.07964v3,Wald-Kernel: Learning to Aggregate Information for Sequential Inference
+25,General Learning and Classification Methods,25,0.7219570610907261,abs-1710.04872v1,Manifold regularization based on Nystr{ö}m type subsampling
+26,Graph Neural Networks,1,0.9033284815293997,abs-1911.07979v3,ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+26,Graph Neural Networks,2,0.8966217115746704,abs-2104.07886v2,Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks
+26,Graph Neural Networks,3,0.8934911102259628,abs-2302.13406v1,GNNDelete: A General Strategy for Unlearning in Graph Neural Networks
+26,Graph Neural Networks,4,0.8895429324598274,abs-2009.03717v3,Hierarchical Message-Passing Graph Neural Networks
+26,Graph Neural Networks,5,0.8880044666377016,abs-2105.03178v5,Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks
+26,Graph Neural Networks,6,0.8845911915223946,abs-2110.07436v1,Asymmetric Graph Representation Learning
+26,Graph Neural Networks,7,0.8843138242988791,abs-2108.01660v3,Graph Neural Networks With Lifting-based Adaptive Graph Wavelets
+26,Graph Neural Networks,8,0.8825487147671252,abs-2211.12792v2,MECCH: Metapath Context Convolution-based Heterogeneous Graph Neural Networks
+26,Graph Neural Networks,9,0.8820953424882609,abs-2110.00973v2,Graph Pointer Neural Networks
+26,Graph Neural Networks,10,0.8805311195710128,abs-2208.07458v1,Learnable Filters for Geometric Scattering Modules
+26,Graph Neural Networks,11,0.8795381592290583,abs-2302.03266v3,Learning to Count Isomorphisms with Graph Neural Networks
+26,Graph Neural Networks,12,0.8793790796557172,abs-2307.01636v2,HAGNN: Hybrid Aggregation for Heterogeneous Graph Neural Networks
+26,Graph Neural Networks,13,0.8784574409828602,abs-2307.09768v1,How Curvature Enhance the Adaptation Power of Framelet GCNs
+26,Graph Neural Networks,14,0.8781171180058315,abs-2104.07892v1,Higher-Order Attribute-Enhancing Heterogeneous Graph Neural Networks
+26,Graph Neural Networks,15,0.8779606533199653,abs-2302.02101v1,GRANDE: a neural model over directed multigraphs with application to anti-money laundering
+26,Graph Neural Networks,16,0.8771744006034019,abs-2109.09432v1,Edge-similarity-aware Graph Neural Networks
+26,Graph Neural Networks,17,0.8757315837886332,abs-2210.02636v2,Geodesic Graph Neural Network for Efficient Graph Representation Learning
+26,Graph Neural Networks,18,0.8746766695251572,abs-2310.11664v1,Hetero$^2$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs
+26,Graph Neural Networks,19,0.8746253905789945,abs-2110.01872v2,Permute Me Softly: Learning Soft Permutations for Graph Representations
+26,Graph Neural Networks,20,0.8739286461904747,abs-2412.17591v1,Graph Size-imbalanced Learning with Energy-guided Structural Smoothing
+26,Graph Neural Networks,21,0.8724743554370052,abs-2308.06838v6,Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes
+26,Graph Neural Networks,22,0.8723459917151586,abs-1909.05729v2,GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation
+26,Graph Neural Networks,23,0.8720245077313028,abs-2411.18520v1,Perturbation Ontology based Graph Attention Networks
+26,Graph Neural Networks,24,0.8718657843898965,abs-2012.11147v1,Hop-Hop Relation-aware Graph Neural Networks
+26,Graph Neural Networks,25,0.87160571240618,abs-2005.08485v2,"Graphs, Entities, and Step Mixture"
+27,Dialogue Systems,1,0.8988081130970162,abs-1908.07687v1,MoEL: Mixture of Empathetic Listeners
+27,Dialogue Systems,2,0.8983555001463699,abs-2212.10557v2,DialGuide: Aligning Dialogue Model Behavior with Developer Guidelines
+27,Dialogue Systems,3,0.8966939515918964,abs-2305.13710v1,Using Textual Interface to Align External Knowledge for End-to-End Task-Oriented Dialogue Systems
+27,Dialogue Systems,4,0.8961001407695847,abs-2302.04424v1,A Transformer-based Response Evaluator for Open-Domain Spoken Conversation
+27,Dialogue Systems,5,0.8948121026791034,abs-2010.12757v2,Adding Chit-Chat to Enhance Task-Oriented Dialogues
+27,Dialogue Systems,6,0.8943355435981066,abs-2004.12363v1,Multi-Domain Dialogue Acts and Response Co-Generation
+27,Dialogue Systems,7,0.8885136652504282,abs-2010.01893v2,Regularizing Dialogue Generation by Imitating Implicit Scenarios
+27,Dialogue Systems,8,0.8871704986168127,abs-1907.05774v2,"Hello, It's GPT-2 -- How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems"
+27,Dialogue Systems,9,0.8852286324264201,abs-2204.08128v1,Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation
+27,Dialogue Systems,10,0.882256847753736,abs-1912.09879v1,When to Talk: Chatbot Controls the Timing of Talking during Multi-turn Open-domain Dialogue Generation
+27,Dialogue Systems,11,0.8816080573861393,abs-2204.10757v3,FaithDial: A Faithful Benchmark for Information-Seeking Dialogue
+27,Dialogue Systems,12,0.8806866601355126,abs-2012.03539v2,UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2
+27,Dialogue Systems,13,0.879850282842283,abs-2210.06282v4,DialoGen: Generalized Long-Range Context Representation for Dialogue Systems
+27,Dialogue Systems,14,0.8797480758733189,abs-2205.03676v2,Empathetic Response Generation with State Management
+27,Dialogue Systems,15,0.8793850882472358,abs-1706.07440v2,End-to-end Conversation Modeling Track in DSTC6
+27,Dialogue Systems,16,0.8789483624644033,abs-2208.07597v1,Manual-Guided Dialogue for Flexible Conversational Agents
+27,Dialogue Systems,17,0.8782234548874772,abs-2205.09314v1,Target-Guided Dialogue Response Generation Using Commonsense and Data Augmentation
+27,Dialogue Systems,18,0.8776220691734,abs-2302.00907v1,History-Aware Hierarchical Transformer for Multi-session Open-domain Dialogue System
+27,Dialogue Systems,19,0.8769232956541511,abs-2206.11813v1,"Chat, Shift and Perform: Bridging the Gap between Task-oriented and Non-task-oriented Dialog Systems"
+27,Dialogue Systems,20,0.876287825500317,abs-2105.02482v2,A Unified Pre-training Framework for Conversational AI
+27,Dialogue Systems,21,0.8759632850126495,abs-2205.05886v1,A Chit-Chats Enhanced Task-Oriented Dialogue Corpora for Fuse-Motive Conversation Systems
+27,Dialogue Systems,22,0.8757881422144332,abs-2212.05373v1,Topic-Aware Response Generation in Task-Oriented Dialogue with Unstructured Knowledge Access
+27,Dialogue Systems,23,0.8756611375740438,abs-2304.08115v1,An Empirical Study of Multitask Learning to Improve Open Domain Dialogue Systems
+27,Dialogue Systems,24,0.8751962920252743,abs-2102.02191v1,DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation
+27,Dialogue Systems,25,0.8747713994738224,abs-2004.05388v1,You Impress Me: Dialogue Generation via Mutual Persona Perception
+28,Video Understanding and Action Recognition,1,0.8563422165981105,abs-1808.07507v1,Video Jigsaw: Unsupervised Learning of Spatiotemporal Context for Video Action Recognition
+28,Video Understanding and Action Recognition,2,0.8532177241411307,abs-1906.06822v1,Spatio-Temporal Fusion Networks for Action Recognition
+28,Video Understanding and Action Recognition,3,0.8520316029676984,abs-1611.09053v1,Bidirectional Multirate Reconstruction for Temporal Modeling in Videos
+28,Video Understanding and Action Recognition,4,0.8450840064955958,abs-1804.10021v1,Deep Keyframe Detection in Human Action Videos
+28,Video Understanding and Action Recognition,5,0.8386193495395913,abs-2010.11838v1,Blind Video Temporal Consistency via Deep Video Prior
+28,Video Understanding and Action Recognition,6,0.8363083125254803,abs-1607.06416v1,Hierarchical Attention Network for Action Recognition in Videos
+28,Video Understanding and Action Recognition,7,0.8336636746759185,abs-2104.10492v1,Skimming and Scanning for Untrimmed Video Action Recognition
+28,Video Understanding and Action Recognition,8,0.8335072732155755,abs-1706.08218v1,YoTube: Searching Action Proposal via Recurrent and Static Regression Networks
+28,Video Understanding and Action Recognition,9,0.8314392732330453,abs-2105.11731v2,ST-HOI: A Spatial-Temporal Baseline for Human-Object Interaction Detection in Videos
+28,Video Understanding and Action Recognition,10,0.8310905000697001,abs-2209.11316v1,FuTH-Net: Fusing Temporal Relations and Holistic Features for Aerial Video Classification
+28,Video Understanding and Action Recognition,11,0.8308698415333263,abs-2303.14124v1,Towards Scalable Neural Representation for Diverse Videos
+28,Video Understanding and Action Recognition,12,0.8279108368244961,abs-2102.07092v3,Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition
+28,Video Understanding and Action Recognition,13,0.8277509931111946,abs-1805.02877v1,Low-Latency Human Action Recognition with Weighted Multi-Region Convolutional Neural Network
+28,Video Understanding and Action Recognition,14,0.8266189578159453,abs-2308.04834v2,View while Moving: Efficient Video Recognition in Long-untrimmed Videos
+28,Video Understanding and Action Recognition,15,0.826500503720461,abs-1612.04854v1,Temporal-Needle: A view and appearance invariant video descriptor
+28,Video Understanding and Action Recognition,16,0.8255526458491361,abs-2008.05977v1,Hybrid Dynamic-static Context-aware Attention Network for Action Assessment in Long Videos
+28,Video Understanding and Action Recognition,17,0.8254428585855995,abs-1611.08240v4,AdaScan: Adaptive Scan Pooling in Deep Convolutional Neural Networks for Human Action Recognition in Videos
+28,Video Understanding and Action Recognition,18,0.8230172378099158,abs-2305.19480v6,Learning by Aligning 2D Skeleton Sequences and Multi-Modality Fusion
+28,Video Understanding and Action Recognition,19,0.8225647168592276,abs-2212.13660v1,NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action
+28,Video Understanding and Action Recognition,20,0.8220955992016539,abs-2012.08041v1,NUTA: Non-uniform Temporal Aggregation for Action Recognition
+28,Video Understanding and Action Recognition,21,0.821573768046341,abs-2211.05531v1,SWTF: Sparse Weighted Temporal Fusion for Drone-Based Activity Recognition
+28,Video Understanding and Action Recognition,22,0.8206731681697178,abs-2104.09952v2,MGSampler: An Explainable Sampling Strategy for Video Action Recognition
+28,Video Understanding and Action Recognition,23,0.8188653549714895,abs-2103.12318v2,Enhanced Spatio-Temporal Interaction Learning for Video Deraining: A Faster and Better Framework
+28,Video Understanding and Action Recognition,24,0.818812844663849,abs-1902.07370v1,Learning Transferable Self-attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision
+28,Video Understanding and Action Recognition,25,0.8184356379337915,abs-2304.02934v1,Boundary-Denoising for Video Activity Localization
+29,Multilingual and Cross-Lingual NLP,1,0.8953104258207076,abs-2201.12501v3,Does Transliteration Help Multilingual Language Modeling?
+29,Multilingual and Cross-Lingual NLP,2,0.8916268596109617,abs-2205.09634v2,Phylogeny-Inspired Adaptation of Multilingual Models to New Languages
+29,Multilingual and Cross-Lingual NLP,3,0.8898986443513512,abs-2203.09904v1,Do Multilingual Language Models Capture Differing Moral Norms?
+29,Multilingual and Cross-Lingual NLP,4,0.8887114389345061,abs-2209.06422v1,Language Chameleon: Transformation analysis between languages using Cross-lingual Post-training based on Pre-trained language models
+29,Multilingual and Cross-Lingual NLP,5,0.8883071744655519,abs-2211.05015v1,Detecting Languages Unintelligible to Multilingual Models through Local Structure Probes
+29,Multilingual and Cross-Lingual NLP,6,0.8880659731134948,abs-2305.13989v1,MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages
+29,Multilingual and Cross-Lingual NLP,7,0.8861115705195217,abs-2311.08348v2,MC$^2$: Towards Transparent and Culturally-Aware NLP for Minority Languages in China
+29,Multilingual and Cross-Lingual NLP,8,0.8846706644322722,abs-2405.12413v1,Targeted Multilingual Adaptation for Low-resource Language Families
+29,Multilingual and Cross-Lingual NLP,9,0.8841222542937137,abs-1911.02116v2,Unsupervised Cross-lingual Representation Learning at Scale
+29,Multilingual and Cross-Lingual NLP,10,0.8802561846566449,abs-2202.06650v1,Out of Thin Air: Is Zero-Shot Cross-Lingual Keyword Detection Better Than Unsupervised?
+29,Multilingual and Cross-Lingual NLP,11,0.8783211381239747,abs-2211.07733v2,Speaking Multiple Languages Affects the Moral Bias of Language Models
+29,Multilingual and Cross-Lingual NLP,12,0.8774563738807962,abs-2402.15059v1,ColBERT-XM: A Modular Multi-Vector Representation Model for Zero-Shot Multilingual Information Retrieval
+29,Multilingual and Cross-Lingual NLP,13,0.8770051107445954,abs-2203.01976v2,Overlap-based Vocabulary Generation Improves Cross-lingual Transfer Among Related Languages
+29,Multilingual and Cross-Lingual NLP,14,0.8725503926310478,abs-2109.00271v1,Discovering Representation Sprachbund For Multilingual Pre-Training
+29,Multilingual and Cross-Lingual NLP,15,0.8723269520063935,abs-2012.15562v3,UNKs Everywhere: Adapting Multilingual Language Models to New Scripts
+29,Multilingual and Cross-Lingual NLP,16,0.8712942806298272,abs-2202.09583v1,Models and Datasets for Cross-Lingual Summarisation
+29,Multilingual and Cross-Lingual NLP,17,0.8705072334367763,abs-2203.08430v1,Cross-Lingual Ability of Multilingual Masked Language Models: A Study of Language Structure
+29,Multilingual and Cross-Lingual NLP,18,0.8701928985612097,abs-2305.14012v2,When your Cousin has the Right Connections: Unsupervised Bilingual Lexicon Induction for Related Data-Imbalanced Languages
+29,Multilingual and Cross-Lingual NLP,19,0.8698018069768263,abs-2209.11035v2,MonoByte: A Pool of Monolingual Byte-level Language Models
+29,Multilingual and Cross-Lingual NLP,20,0.8691117532035453,abs-2310.11584v1,BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages
+29,Multilingual and Cross-Lingual NLP,21,0.8689278026935007,abs-2404.07982v4,The Role of Language Imbalance in Cross-lingual Generalisation: Insights from Cloned Language Experiments
+29,Multilingual and Cross-Lingual NLP,22,0.8670258615930906,abs-2204.02292v2,Parameter-Efficient Neural Reranking for Cross-Lingual and Multilingual Retrieval
+29,Multilingual and Cross-Lingual NLP,23,0.866863863131174,abs-2105.00572v1,Larger-Scale Transformers for Multilingual Masked Language Modeling
+29,Multilingual and Cross-Lingual NLP,24,0.8666023797761979,abs-2104.08639v2,AM2iCo: Evaluating Word Meaning in Context across Low-Resource Languages with Adversarial Examples
+29,Multilingual and Cross-Lingual NLP,25,0.8663644772588199,abs-2403.01817v1,NusaBERT: Teaching IndoBERT to be Multilingual and Multicultural

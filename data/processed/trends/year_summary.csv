@@ -1,0 +1,12 @@
+year,first_date,last_date,paper_count,is_partial_year,year_status
+2015,2015-01-01,2015-12-31,3338,False,complete
+2016,2016-01-01,2016-12-31,5829,False,complete
+2017,2017-01-01,2017-12-31,8808,False,complete
+2018,2018-01-01,2018-12-31,11253,False,complete
+2019,2019-01-01,2019-12-31,13204,False,complete
+2020,2020-01-01,2020-12-31,14308,False,complete
+2021,2021-01-01,2021-12-31,14362,False,complete
+2022,2022-01-01,2022-12-31,15036,False,complete
+2023,2023-01-01,2023-12-31,14131,False,complete
+2024,2024-01-01,2024-12-31,11601,False,complete
+2025,2025-01-01,2025-01-30,493,True,partial

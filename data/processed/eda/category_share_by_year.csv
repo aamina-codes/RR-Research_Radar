@@ -1,0 +1,67 @@
+year,category,paper_count,total,share
+2015,Artificial Intelligence,315,3338,0.09436788496105453
+2015,Computation and Language (Natural Language Processing),421,3338,0.12612342720191733
+2015,Computer Vision and Pattern Recognition,982,3338,0.29418813660874776
+2015,Machine Learning,807,3338,0.24176153385260635
+2015,Machine Learning (Statistics),612,3338,0.18334331935290593
+2015,Neural and Evolutionary Computing,201,3338,0.060215698022768126
+2016,Artificial Intelligence,594,5829,0.10190427174472465
+2016,Computation and Language (Natural Language Processing),867,5829,0.1487390633041688
+2016,Computer Vision and Pattern Recognition,2095,5829,0.3594098473151484
+2016,Machine Learning,1093,5829,0.1875107222508149
+2016,Machine Learning (Statistics),911,5829,0.1562875278778521
+2016,Neural and Evolutionary Computing,269,5829,0.04614856750729113
+2017,Artificial Intelligence,850,8808,0.09650317892824704
+2017,Computation and Language (Natural Language Processing),1565,8808,0.17767938237965486
+2017,Computer Vision and Pattern Recognition,3287,8808,0.3731834695731153
+2017,Machine Learning,1608,8808,0.18256130790190736
+2017,Machine Learning (Statistics),1230,8808,0.1396457765667575
+2017,Neural and Evolutionary Computing,268,8808,0.030426884650317895
+2018,Artificial Intelligence,838,11253,0.07446903048076069
+2018,Computation and Language (Natural Language Processing),1713,11253,0.1522260730471874
+2018,Computer Vision and Pattern Recognition,3549,11253,0.3153825646494268
+2018,Machine Learning,3266,11253,0.2902337154536568
+2018,Machine Learning (Statistics),1518,11253,0.1348973607038123
+2018,Neural and Evolutionary Computing,369,11253,0.032791255665155956
+2019,Artificial Intelligence,709,13204,0.05369584974250227
+2019,Computation and Language (Natural Language Processing),2448,13204,0.1853983641320812
+2019,Computer Vision and Pattern Recognition,3425,13204,0.25939109360799756
+2019,Machine Learning,5177,13204,0.3920781581338988
+2019,Machine Learning (Statistics),1027,13204,0.07777946076946379
+2019,Neural and Evolutionary Computing,418,13204,0.03165707361405635
+2020,Artificial Intelligence,915,14308,0.0639502376292983
+2020,Computation and Language (Natural Language Processing),2468,14308,0.17249091417388873
+2020,Computer Vision and Pattern Recognition,3011,14308,0.2104417109309477
+2020,Machine Learning,6261,14308,0.4375873637126083
+2020,Machine Learning (Statistics),1096,14308,0.07660050321498463
+2020,Neural and Evolutionary Computing,557,14308,0.038929270338272294
+2021,Artificial Intelligence,1096,14362,0.07631249129647681
+2021,Computation and Language (Natural Language Processing),3168,14362,0.22058209163069212
+2021,Computer Vision and Pattern Recognition,3486,14362,0.2427238546163487
+2021,Machine Learning,5429,14362,0.3780114190224203
+2021,Machine Learning (Statistics),745,14362,0.051872998189667174
+2021,Neural and Evolutionary Computing,438,14362,0.03049714524439493
+2022,Artificial Intelligence,1023,15036,0.06803671189146049
+2022,Computation and Language (Natural Language Processing),3896,15036,0.2591114658153764
+2022,Computer Vision and Pattern Recognition,3804,15036,0.2529928172386273
+2022,Machine Learning,4929,15036,0.3278132482043097
+2022,Machine Learning (Statistics),691,15036,0.04595637137536579
+2022,Neural and Evolutionary Computing,693,15036,0.046089385474860335
+2023,Artificial Intelligence,1409,14131,0.09970985775953577
+2023,Computation and Language (Natural Language Processing),4317,14131,0.30549854928879766
+2023,Computer Vision and Pattern Recognition,2841,14131,0.20104734272167574
+2023,Machine Learning,4451,14131,0.31498124690397
+2023,Machine Learning (Statistics),514,14131,0.03637392965819829
+2023,Neural and Evolutionary Computing,599,14131,0.04238907366782252
+2024,Artificial Intelligence,1573,11601,0.13559175933109216
+2024,Computation and Language (Natural Language Processing),3467,11601,0.29885354710800793
+2024,Computer Vision and Pattern Recognition,498,11601,0.042927333850530124
+2024,Machine Learning,4710,11601,0.40599948280320663
+2024,Machine Learning (Statistics),645,11601,0.05559865528833721
+2024,Neural and Evolutionary Computing,708,11601,0.061029221618825964
+2025,Artificial Intelligence,124,493,0.2515212981744422
+2025,Computation and Language (Natural Language Processing),2,493,0.004056795131845842
+2025,Computer Vision and Pattern Recognition,7,493,0.014198782961460446
+2025,Machine Learning,232,493,0.47058823529411764
+2025,Machine Learning (Statistics),77,493,0.15618661257606492
+2025,Neural and Evolutionary Computing,51,493,0.10344827586206896

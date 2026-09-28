@@ -1,0 +1,21 @@
+cluster,topic_label,rank,similarity_to_centroid,paper_id,title
+12,Federated Learning,1,0.9544394700351704,abs-2011.04050v1,Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning
+12,Federated Learning,2,0.9480353331153064,abs-2410.18862v1,FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning
+12,Federated Learning,3,0.946357240417978,abs-2107.09627v1,Precision-Weighted Federated Learning
+12,Federated Learning,4,0.9437066429029274,abs-2211.03363v3,Over-The-Air Clustered Wireless Federated Learning
+12,Federated Learning,5,0.940663291598754,abs-2104.08020v1,FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning
+11,General Machine Learning and AI,1,0.7906665856169341,abs-1706.06974v1,"The Theory is Predictive, but is it Complete? An Application to Human Perception of Randomness"
+11,General Machine Learning and AI,2,0.7662985477372559,abs-2104.07245v3,Towards Handling Uncertainty-at-Source in AI -- A Review and Next Steps for Interval Regression
+11,General Machine Learning and AI,3,0.7630784593354106,abs-1909.13343v2,"ISTHMUS: Secure, Scalable, Real-time and Robust Machine Learning Platform for Healthcare"
+11,General Machine Learning and AI,4,0.7628902613948412,abs-2002.09945v1,On the Estimation of Complex Circuits Functional Failure Rate by Machine Learning Techniques
+11,General Machine Learning and AI,5,0.7628859442923136,abs-1804.09997v1,PANDA: Facilitating Usable AI Development
+26,Graph Neural Networks,1,0.9033284815293996,abs-1911.07979v3,ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+26,Graph Neural Networks,2,0.8966217115746704,abs-2104.07886v2,Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks
+26,Graph Neural Networks,3,0.8934911102259628,abs-2302.13406v1,GNNDelete: A General Strategy for Unlearning in Graph Neural Networks
+26,Graph Neural Networks,4,0.8895429324598274,abs-2009.03717v3,Hierarchical Message-Passing Graph Neural Networks
+26,Graph Neural Networks,5,0.8880044666377016,abs-2105.03178v5,Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks
+9,Time-Series Forecasting,1,0.9254555788893084,abs-2401.11929v4,Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting
+9,Time-Series Forecasting,2,0.9174168343840814,abs-2107.01705v1,Randomized Neural Networks for Forecasting Time Series with Multiple Seasonality
+9,Time-Series Forecasting,3,0.9159037833540457,abs-2008.12340v1,Forecasting with Multiple Seasonality
+9,Time-Series Forecasting,4,0.9141895260864844,abs-2410.22981v1,DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting
+9,Time-Series Forecasting,5,0.9093210086486156,abs-2109.09692v4,Modeling Regime Shifts in Multiple Time Series

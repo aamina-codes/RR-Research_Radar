@@ -1,0 +1,115 @@
+RESEARCH RADAR — EMERGING TOPIC VALIDATION
+============================================================
+
+Purpose:
+Inspect the keywords and representative papers behind the statistically detected emerging-topic candidates.
+
+The candidates were identified by the Research Radar signal layer. This report does not alter or rerank those signals.
+
+------------------------------------------------------------
+TOPIC: Graph Neural Networks
+------------------------------------------------------------
+
+Cluster: 26
+Papers in cluster: 3659
+
+Top terms:
+graph, graphs, graph neural, node, gnns, networks, nodes, neural, gnn, neural networks, learning, network, networks gnns, information, model
+
+Representative papers: 5
+
+1. ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations
+   Similarity to centroid: 0.9033
+
+2. Reinforced Neighborhood Selection Guided Multi-Relational Graph Neural Networks
+   Similarity to centroid: 0.8966
+
+3. GNNDelete: A General Strategy for Unlearning in Graph Neural Networks
+   Similarity to centroid: 0.8935
+
+4. Hierarchical Message-Passing Graph Neural Networks
+   Similarity to centroid: 0.8895
+
+5. Graph Entropy Guided Node Embedding Dimension Selection for Graph Neural Networks
+   Similarity to centroid: 0.8880
+
+------------------------------------------------------------
+TOPIC: Federated Learning
+------------------------------------------------------------
+
+Cluster: 12
+Papers in cluster: 1082
+
+Top terms:
+federated, federated learning, clients, learning, data, privacy, client, communication, local, distributed, server, model, training, devices, global model
+
+Representative papers: 5
+
+1. Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning
+   Similarity to centroid: 0.9544
+
+2. FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning
+   Similarity to centroid: 0.9480
+
+3. Precision-Weighted Federated Learning
+   Similarity to centroid: 0.9464
+
+4. Over-The-Air Clustered Wireless Federated Learning
+   Similarity to centroid: 0.9437
+
+5. FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning
+   Similarity to centroid: 0.9407
+
+------------------------------------------------------------
+TOPIC: Time-Series Forecasting
+------------------------------------------------------------
+
+Cluster: 9
+Papers in cluster: 1736
+
+Top terms:
+time series, series, time, forecasting, data, series forecasting, series data, multivariate, multivariate time, model, models, temporal, learning, series classification, methods
+
+Representative papers: 5
+
+1. Parsimony or Capability? Decomposition Delivers Both in Long-term Time Series Forecasting
+   Similarity to centroid: 0.9255
+
+2. Randomized Neural Networks for Forecasting Time Series with Multiple Seasonality
+   Similarity to centroid: 0.9174
+
+3. Forecasting with Multiple Seasonality
+   Similarity to centroid: 0.9159
+
+4. DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting
+   Similarity to centroid: 0.9142
+
+5. Modeling Regime Shifts in Multiple Time Series
+   Similarity to centroid: 0.9093
+
+------------------------------------------------------------
+TOPIC: General Machine Learning and AI
+------------------------------------------------------------
+
+Cluster: 11
+Papers in cluster: 12670
+
+Top terms:
+learning, machine, machine learning, data, model, models, systems, prediction, using, paper, research, approach, intelligence, based, artificial
+
+Representative papers: 5
+
+1. The Theory is Predictive, but is it Complete? An Application to Human Perception of Randomness
+   Similarity to centroid: 0.7907
+
+2. Towards Handling Uncertainty-at-Source in AI -- A Review and Next Steps for Interval Regression
+   Similarity to centroid: 0.7663
+
+3. ISTHMUS: Secure, Scalable, Real-time and Robust Machine Learning Platform for Healthcare
+   Similarity to centroid: 0.7631
+
+4. On the Estimation of Complex Circuits Functional Failure Rate by Machine Learning Techniques
+   Similarity to centroid: 0.7629
+
+5. PANDA: Facilitating Usable AI Development
+   Similarity to centroid: 0.7629
